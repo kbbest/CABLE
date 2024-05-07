@@ -16,7 +16,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Music and Entertainment Television - TTEN" tvg-id="Music and Entertainment Television - TTEN" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:TTEN.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Gayelle the Channel HDTV - GAYELLE" tvg-id="Gayelle the Channel HDTV - GAYELLE" group-title="ENTERTAINMENT" tvg-id="Gayelle.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Gayelle
+#EXTINF:-1 channel-id="Gayelle the Channel HDTV - GAYELLE" tvg-id="Gayelle the Channel HDTV - GAYELLE" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Gayelle
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
@@ -167,7 +167,7 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
+#EXTINF:-1 channel-id="AandE Network (East) - AandE" tvg-id="AandE Network (East) - AandE" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AE.smil/playlist.m3u8
 
 
@@ -182,13 +182,13 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:AMC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/J8brM2F.png",AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://imgur.com/LIuQ7MH.png",AXN
+#EXTINF:-1 channel-id="AXN (Andes English) - AXN" tvg-id="AXN (Andes English) - AXN" group-title="ENTERTAINMENT" tvg-logo="https://imgur.com/LIuQ7MH.png",AXN
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AXN.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",Bet
+#EXTINF:-1 channel-id="Black Entertainment Television (Caribbean) - BET" tvg-id="Black Entertainment Television (Caribbean) - BET" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",Bet
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BET.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
+#EXTINF:-1 channel-id="BET Her Caribbean - BHER" tvg-id="BET Her Caribbean - BHER" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12785
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo=",BYU
@@ -204,7 +204,7 @@ https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",BRAVO
+#EXTINF:-1 channel-id="Bravo HDTV (East) - BRAVOD" tvg-id="Bravo HDTV (East) - BRAVOD" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",BRAVO
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BRAVO.smil/playlist.m3u8
 
 
