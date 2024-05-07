@@ -61,11 +61,11 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEETV.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ALJAZEERA.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/mu/BBCWorld.mu.png",BBC WORLD
+#EXTINF:-1 channel-id="BBC News (Latin America) - BBCWN" tvg-id="BBC News (Latin America) - BBCWN" group-title="NEWS" tvg-logo="https://static.epg.best/mu/BBCWorld.mu.png",BBC WORLD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:BBC_WORLD.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNNInternational.us.png",CNN INTERNATIONAL
+#EXTINF:-1 channel-id="Cable News Network International - CNNI" tvg-id="Cable News Network International - CNNI" group-title="NEWS" tvg-logo="https://static.epg.best/us/CNNInternational.us.png",CNN INTERNATIONAL
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="CGTN News - CGTN" tvg-id="CGTN News - CGTN" group-title="NEWS" tvg-logo="https://static.epg.best/cn/CGTNEnglish.cn.png",CGTN NEWS
@@ -90,10 +90,10 @@ http://iptvcdn.airlinktt.co/ttorigin04/live/smil:MSNBC.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS",NEWSY
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NEWSY.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Islamic Broadcasting Network - IBN" tvg-id="Islamic Broadcasting Network - IBN" group-title="RELIGION" tvg-id="IslamicBroadcastingNetwork.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",IBN
+#EXTINF:-1 channel-id="Islamic Broadcasting Network - IBN" tvg-id="Islamic Broadcasting Network - IBN" group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",IBN
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:IBN.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Trinity TV - Columbus - TTV" tvg-id="Trinity TV - Columbus - TTV" group-title="RELIGION" tvg-id="Trinity.tt"  tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
+#EXTINF:-1 channel-id="Trinity TV - Columbus - TTV" tvg-id="Trinity TV - Columbus - TTV" group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="JAAGRITI TV - JAAGR" tvg-id="JAAGRITI TV - JAAGR" group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
