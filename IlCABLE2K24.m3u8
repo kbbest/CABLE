@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://www.bevy.be/generate/5HyabuxTBx.xml"
-#EXTM3U x-tvg-url="https://epg.tvnow.best/utc.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/caribbean.xml"
+
 #EXTINF:-1 channel-id="CNC TV3 - CNC3" tvg-id="CNC TV3 - CNC3" group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
 
@@ -10,54 +10,54 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TTT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Caribbean Communications Network TV6 - CCNTV6" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TV6.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="SynergyTV.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",Synergy
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Synergy TV - SYNERGY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",Synergy
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN
+#EXTINF:-1 channel-id="Music and Entertainment Television - TTEN" tvg-id="Music and Entertainment Television - TTEN" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:TTEN.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Gayelle.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Gayelle
+#EXTINF:-1 channel-id="Gayelle the Channel HDTV - GAYELLE" tvg-id="Gayelle the Channel HDTV - GAYELLE" group-title="ENTERTAINMENT" tvg-id="Gayelle.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Gayelle
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:TIC4.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
+#EXTINF:-1 channel-id="Parliament of the Republic of Trinidad and Tobago - PARLTT" tvg-id="Parliament of the Republic of Trinidad and Tobago - PARLTT" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:PARLIAMENT.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldL1eHXjoBoM-kJSCDI4tVjubQiR0BBqHdjM3RGbOW6Z1zONeBlTYXG6TuQArTnAdjJQ&usqp=CAU",MCTV Caribbean
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:MCTV.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
+#EXTINF:-1 channel-id="Sankhya TV HDTV - SANKHYATV" tvg-id="Sankhya TV HDTV - SANKHYATV" group-title="ENTERTAINMENT" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SANKHYA.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.wesncc.com/wp-content/uploads/2021/03/logofin.png",WESN
+#EXTINF:-1 channel-id="WESN HDTV - WESNDT" tvg-id="WESN HDTV - WESNDT" group-title="ENTERTAINMENT" tvg-logo="https://www.wesncc.com/wp-content/uploads/2021/03/logofin.png",WESN
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:WESN.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Bollywood" tvg-id="ieTV.tt" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",IETV
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:IETV.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",B4U Music
+#EXTINF:-1 channel-id="B4U Music - B4UMU" tvg-id="B4U Music - B4UMU" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",B4U Music
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:B4U_MUSIC.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://i.imgur.com/MhSG4sc.png",B4U Movies
+#EXTINF:-1 channel-id="B4U Movies - B4UMO" tvg-id="B4U Movies - B4UMO" group-title="Bollywood" tvg-logo="https://i.imgur.com/MhSG4sc.png",B4U Movies
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:B4U_MOVIES.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png",ZEE CINEMA
+#EXTINF:-1 channel-id="Zee Cinema (Canada) - ZEECIN" tvg-id="Zee Cinema (Canada) - ZEECIN" group-title="Bollywood" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png",ZEE CINEMA
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ZEE_CINEMA.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
+#EXTINF:-1 channel-id="Zee World - ZEEWRL" tvg-id="Zee World - ZEEWRL" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEE_WORLD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bollywood-in.pn", ZEE BOLLYWOOD
+#EXTINF:-1 channel-id="" tvg-id="" group-title="Bollywood" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bollywood-in.pn", ZEE BOLLYWOOD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ZEE_BOLLYWOOD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",Zee Tv
+#EXTINF:-1 channel-id="ZeeTV Caribbean - Zee TV" tvg-id="ZeeTV Caribbean - Zee TV" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",Zee Tv
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEETV.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/nl/AlJazeeraEnglish.nl.png",AlJazeera
+#EXTINF:-1 channel-id="Al Jazeera (English - North America) - ALJAZEE" tvg-id="Al Jazeera (English - North America) - ALJAZEE" group-title="NEWS" tvg-logo="https://static.epg.best/nl/AlJazeeraEnglish.nl.png",AlJazeera
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ALJAZEERA.smil/playlist.m3u8
 
 
@@ -68,7 +68,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNNInternational.us.png",CNN INTERNATIONAL
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/cn/CGTNEnglish.cn.png",CGTN NEWS
+#EXTINF:-1 channel-id="CGTN News - CGTN" tvg-id="CGTN News - CGTN" group-title="NEWS" tvg-logo="https://static.epg.best/cn/CGTNEnglish.cn.png",CGTN NEWS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CGTN_NEWS.smil/playlist.m3u8
 
 
@@ -77,32 +77,32 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX NEWS
+#EXTINF:-1 channel-id="Fox News Channel (East) - FNC" tvg-id="Fox News Channel (East) - FNC" group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX NEWS
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:FOX_NEWS.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",FRANCE 24
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FRANCE_24.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC 
+#EXTINF:-1 channel-id="msnbc - msnbc" tvg-id="msnbc - msnbc" group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC 
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:MSNBC.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="NEWS",NEWSY
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NEWSY.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="RELIGION" tvg-id="IslamicBroadcastingNetwork.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",IBN
+#EXTINF:-1 channel-id="Islamic Broadcasting Network - IBN" tvg-id="Islamic Broadcasting Network - IBN" group-title="RELIGION" tvg-id="IslamicBroadcastingNetwork.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",IBN
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:IBN.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="RELIGION" tvg-id="Trinity.tt"  tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
+#EXTINF:-1 channel-id="Trinity TV - Columbus - TTV" tvg-id="Trinity TV - Columbus - TTV" group-title="RELIGION" tvg-id="Trinity.tt"  tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
+#EXTINF:-1 channel-id="JAAGRITI TV - JAAGR" tvg-id="JAAGRITI TV - JAAGR" group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:JAAGRITI.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/AFRICA/TBN.png",TBN Trinity Broadcasting Network East
+#EXTINF:-1 channel-id="Trinity Broadcasting Network - TBN" tvg-id="Trinity Broadcasting Network - TBN" group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/AFRICA/TBN.png",TBN Trinity Broadcasting Network East
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TBN.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/T.I.N.DarutTarbiyah.png/200px-T.I.N.DarutTarbiyah.png" The Islamin Network TIN 
+#EXTINF:-1 channel-id="The Islamic Network - TIN" tvg-id="The Islamic Network - TIN" group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/T.I.N.DarutTarbiyah.png/200px-T.I.N.DarutTarbiyah.png" The Islamin Network TIN 
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:TIN.smil/playlist.m3u8
 
 
@@ -121,31 +121,31 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:SME.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png",ANIMAL PLANET
+#EXTINF:-1 channel-id="Animal Planet (Latin America English) - APL" tvg-id="Animal Planet (Latin America English) - APL" group-title="KIDS" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png",ANIMAL PLANET
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/gb/BabyTV.uk.png",BABY TV
+#EXTINF:-1 channel-id="BabyFirst TV - BABY1" tvg-id="BabyFirst TV - BABY1" group-title="KIDS" tvg-logo="https://static.epg.best/gb/BabyTV.uk.png",BABY TV
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BABY_TV.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON Network
+#EXTINF:-1 channel-id="Cartoon Network (Latin America in English) - TOON" tvg-id="Cartoon Network (Latin America in English) - TOON" group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON Network
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CARTOON.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png",DISCOVERY KIDS
+#EXTINF:-1 channel-id="Discovery Kids Latin America (English) - DKIDEN" tvg-id="Discovery Kids Latin America (English) - DKIDEN" group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png",DISCOVERY KIDS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",DISNEY
+#EXTINF:-1 channel-id="Disney Channel (Multi Country - English) - Disney Cha" tvg-id="Disney Channel (Multi Country - English) - Disney Cha" group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",DISNEY
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISNEY.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png",DISNEY XD
+#EXTINF:-1 channel-id="" tvg-id="" group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png",DISNEY XD
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISNEYXD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/NickJr.us.png",NICK JR
+#EXTINF:-1 channel-id="" tvg-id="" group-title="KIDS" tvg-logo="https://static.epg.best/us/NickJr.us.png",NICK JR
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NICK_JR.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Nicktoons.us.png",NICK TOON
+#EXTINF:-1 channel-id="Nickelodeon (East) - NIK" tvg-id="Nickelodeon (East) - NIK" group-title="KIDS" tvg-logo="https://static.epg.best/us/Nicktoons.us.png",NICK TOON
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NICK_TOONS.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",NICKELODEON
+#EXTINF:-1 channel-id="Nickelodeon (Latin America North, English) - NICK" tvg-id="Nickelodeon (Latin America North, English) - NICK" group-title="KIDS" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",NICKELODEON
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:NICKELODEON.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/PBSKids.us.png",PBS KIDS
@@ -167,7 +167,7 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AE.smil/playlist.m3u8
 
 
@@ -182,13 +182,13 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:AMC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/J8brM2F.png",AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imgur.com/LIuQ7MH.png",AXN
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://imgur.com/LIuQ7MH.png",AXN
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AXN.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",Bet
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",Bet
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BET.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12785
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo=",BYU
@@ -204,7 +204,7 @@ https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",BRAVO
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",BRAVO
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BRAVO.smil/playlist.m3u8
 
 
@@ -224,16 +224,16 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png",CBS NEWS
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CookingChannel.ca.png",COOKING
+#EXTINF:-1 channel-id="The Cooking Channel - COOK" tvg-id="The Cooking Channel - COOK" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CookingChannel.ca.png",COOKING
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:COOKING.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY
+#EXTINF:-1 channel-id="Discovery Caribbean - DISCAR" tvg-id="Discovery Caribbean - DISCAR" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:DISCOVERY.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/DiscoveryHomeHealth.ar.png",DISCOVERY HOME HEALTH
+#EXTINF:-1 channel-id="Discovery Home and Health (Latin America English) - DH+H" tvg-id="Discovery Home and Health (Latin America English) - DH+H" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/DiscoveryHomeHealth.ar.png",DISCOVERY HOME HEALTH
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISCOVERY_HOME_HEALTH.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/DiscoveryTurbo.uk.png",DISCOVERY TURBO
+#EXTINF:-1 channel-id="Discovery Turbo International (English) - DTURBO" tvg-id="Discovery Turbo International (English) - DTURBO" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/DiscoveryTurbo.uk.png",DISCOVERY TURBO
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:DISCOVERY_TURBO.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/il/DoItYourself.il.png",DIY
@@ -243,16 +243,16 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DIY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/V0u3mgI.png",Dove
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/au/FoodNetwork.au.png",FOOD NETWORK
+#EXTINF:-1 channel-id="Food Network (East) - FOOD" tvg-id="Food Network (East) - FOOD" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/au/FoodNetwork.au.png",FOOD NETWORK
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOOD_NETWORK.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI
+#EXTINF:-1 channel-id="FYI - FYI" tvg-id="FYI - FYI" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:FYI.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png",HISTORY
+#EXTINF:-1 channel-id="History (East) - HIST" tvg-id="History (East) - HIST" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png",HISTORY
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HISTORY.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png",INVESTIGATION DISCOVERY
+#EXTINF:-1 channel-id="Investigation Discovery (Latin America English) - ID" tvg-id="Investigation Discovery (Latin America English) - ID" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png",INVESTIGATION DISCOVERY
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/rs/Nasa.rs.png",NASA
@@ -349,7 +349,7 @@ https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/Newsmax.us.png",NewsMax TV
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NAT GEO
+#EXTINF:-1 channel-id="National Geographic Channel - NGC" tvg-id="National Geographic Channel - NGC" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NAT GEO
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:NATGEO.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WGTV.us.png",PBS
@@ -392,7 +392,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:COZI_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CTV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CTV.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/EEntertainment.us.png",E! Entertainment
+#EXTINF:-1 channel-id="E! Entertainment Television (East) - E!" tvg-id="E! Entertainment Television (East) - E!" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/EEntertainment.us.png",E! Entertainment
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:E.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WBFF.us.png",FOX
@@ -417,17 +417,17 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FX.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GRIT.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png",Game Show Network
+#EXTINF:-1 channel-id="GSN (East) - GSN" tvg-id="GSN (East) - GSN" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png",Game Show Network
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:GSN.smil/playlist.m3u8
 
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HGTV.us.png",HGTV
+#EXTINF:-1 channel-id="Home and Garden Television (East) - HGTV" tvg-id="Home and Garden Television (East) - HGTV" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HGTV.us.png",HGTV
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HGTV.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/HLN.ca.png",HLN
+#EXTINF:-1 channel-id="HLN - HLN" tvg-id="HLN - HLN" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/HLN.ca.png",HLN
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:HLN.smil/playlist.m3u8
 
 
@@ -472,10 +472,10 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27506
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png",Lifetime Network
+#EXTINF:-1 channel-id="Lifetime Television (East) - LIFE" tvg-id="Lifetime Television (East) - LIFE" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png",Lifetime Network
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:LIFETIME.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/lifetime.movies.east.us.png",LMN
+#EXTINF:-1 channel-id="Lifetime Movies (East) - LIFEMOV" tvg-id="Lifetime Movies (East) - LIFEMOV" group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/lifetime.movies.east.us.png",LMN
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:LMN.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN
@@ -564,7 +564,7 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MY33.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rush.png",RUSH
+#EXTINF:-1 channel-id="Rush SD (Caribbean) - RUSHSD" tvg-id="Rush SD (Caribbean) - RUSHSD" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rush.png",RUSH
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:RUSH.smil/playlist.m3u8
 
 
