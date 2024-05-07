@@ -34,7 +34,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SANKHYA.smil/playlist.m3u8
 #EXTINF:-1 channel-id="WESN HDTV - WESNDT" tvg-id="WESN HDTV - WESNDT" group-title="ENTERTAINMENT" tvg-logo="https://www.wesncc.com/wp-content/uploads/2021/03/logofin.png",WESN
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:WESN.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Bollywood" tvg-id="ieTV.tt" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",IETV
+#EXTINF:-1 channel-id="ieTV Channel 1 - ieTV" tvg-id="ieTV Channel 1 - ieTV" group-title="Bollywood" tvg-id="ieTV.tt" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",IETV
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:IETV.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="B4U Music - B4UMU" tvg-id="B4U Music - B4UMU" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",B4U Music
@@ -373,16 +373,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",Justice Central
 https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
 
+#EXTINF:-1 channel-id="Cinemax (Panamerican) - CINEMAXE" tvg-id="Cinemax (Panamerican) - CINEMAXE" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CINEMAX.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png",CITY TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CITY_TV.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/au/CNBC.au.png",CNBC 
+#EXTINF:-1 channel-id="Consumer News and Business Channel Canada - CNBC" tvg-id="Consumer News and Business Channel Canada - CNBC" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/au/CNBC.au.png",CNBC 
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CNBC.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="CrackleXUMO.us",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png",COMEDY CENTRAL
+#EXTINF:-1 channel-id="Comedy Central (Caribbean) HDTV - COMEDY" tvg-id="Comedy Central (Caribbean) HDTV - COMEDY" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png",COMEDY CENTRAL
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
 
 
@@ -482,9 +485,6 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:LMN.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:OWN.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX
-http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CINEMAX.smil/playlist.m3u8
-
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/profile_images/1433180516/FlixxTVlogo2_400x400.png",Flix
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:FLIXX.smil/playlist.m3u8
@@ -578,26 +578,26 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20820
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20819
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png",ESPN HD
+#EXTINF:-1 channel-id="ESPN (Caribbean) - ESPNC" tvg-id="ESPN (Caribbean) - ESPNC" group-title="SPORTS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png",ESPN HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15976
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg",ESPN 2 HD
+#EXTINF:-1 channel-id="ESPN2 (Caribbean) - ESPN2" tvg-id="ESPN2 (Caribbean) - ESPN2" group-title="SPORTS" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg",ESPN 2 HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15974
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg",ESPN U HD
+#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg",ESPN U HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15972
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.ihustlaz.com/BACKGROUNDS/NETWORKS/241C1939C-9C36-7288-9A0EA107DADBA0B1.jpg",ESPN DEPORTES HD
+#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="http://www.ihustlaz.com/BACKGROUNDS/NETWORKS/241C1939C-9C36-7288-9A0EA107DADBA0B1.jpg",ESPN DEPORTES HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15970
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-480x480.jpg",FOX DEPORTES
+#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-480x480.jpg",FOX DEPORTES
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25341
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png",FOXSPORTS1
+#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png",FOXSPORTS1
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png",FOXSPORTS2
+#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png",FOXSPORTS2
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png",Real Madrid
@@ -639,48 +639,48 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/TravelEscape.ca.png",ESCAPE TV
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/TravelEscape.ca.png",ESCAPE TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ESCAPE.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WDIV.us.png",NBC
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WDIV.us.png",NBC
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:NBC.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",Syfy
+#EXTINF:-1 channel-id="Syfy (Latin America) - SYFY" tvg-id="Syfy (Latin America) - SYFY" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",Syfy
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYFY.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TLC.us.png",TLC
+#EXTINF:-1 channel-id="Travel and Living (Latin America English) - TLC" tvg-id="Travel and Living (Latin America English) - TLC" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TLC.us.png",TLC
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TLC.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",Travel Channel
+#EXTINF:-1 channel-id="Travel Channel (East) - TRAVEL" tvg-id="Travel Channel (East) - TRAVEL" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",Travel Channel
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TRAVEL_CHANNEL.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVLandEast.us.png",Tv Land
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVLandEast.us.png",Tv Land
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TV_LAND.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVOne.us.png",TV One
+#EXTINF:-1 channel-id="TV ONE HDTV (Blackout Caribbean Feed) - TVONEHD" tvg-id="TV ONE HDTV (Blackout Caribbean Feed) - TVONEHD" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVOne.us.png",TV One
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV_ONE.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/VH1.us.png",VH1
+#EXTINF:-1 channel-id="VH1 HDTV Caribbean - VH1" tvg-id="VH1 HDTV Caribbean - VH1" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/VH1.us.png",VH1
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:VH1.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/fr/WarnerTV.fr.png",Warner Channel
+#EXTINF:-1 channel-id="Warner Channel (Andes) - WARNER" tvg-id="Warner Channel (Andes) - WARNER" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/fr/WarnerTV.fr.png",Warner Channel
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:WARNER.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT",WGN
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT",WGN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WGN.smil/playlist.m3u8
 
 
