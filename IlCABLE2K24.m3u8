@@ -518,7 +518,7 @@ https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesFinland.fi" tvg-logo="https://i.imgur.com/AOvYC61.png" group-title="MOVIES",Rakuten TV Toiminta
 https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",ReelzChannel
+#EXTINF:-1 channel-id="" tvg-id="ReelzChannel" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",ReelzChannel
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:REEL.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="Showtime (East)" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",Showtime
