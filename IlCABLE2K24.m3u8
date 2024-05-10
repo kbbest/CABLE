@@ -700,6 +700,8 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:WARNER.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WGN.smil/playlist.m3u8
 
 
+
+
 #EXTINF:-1 group-title="MUSIC",Stingray Karaoke
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a1164999-b3bf-11ec-bf80-0242ac110003
 
@@ -713,6 +715,149 @@ http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="WPIX" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WPIX.us.png",WPIX
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WPIX.smil/playlist.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East
+http://170.254.18.106/AMC/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="Undefined",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/OjpCtGj.png" group-title="Undefined",AWE 
+https://cdn.klowdtv.net/803B48A/awe_aws_ms/AWE.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Undefined",Always Funny Videos 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="NEWS",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/J1w8bAW.png" group-title="Religious",Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Crime Hunters
+https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Family",Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/nVVF1is.png" group-title="Undefined",EMT Media TV
+https://hls-cdn.tvstartup17.net/tvstartup17-channel/live/mp4:emtmediaedge/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/TXamgdB.png" group-title="NEWS",Entertainment Tonight 
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Business",FOX Business 
+http://41.205.93.154/FOXBUSINESS/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",France 24 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Heroes&Icons WKRP 20.4
+https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Undefined",ION
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="Family",ION Plus
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="Undefined",Infowars,US | Infowars
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/KBTqpJ7.png" group-title="Classic",Johnny Carson TV
+https://amg00163-shoutfactory-johnnycarson-dmr-xydqu.amagi.tv/playlist/amg00163-shoutfactory-johnnycarson-dmr/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Legend Films 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/legendfilms_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Life Minute 
+https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/b475xOT.jpg" group-title="General",Little Guyana TV 
+https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JxoAR4j.png" group-title="Undefined",MTC 
+https://mtchls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Motorbikes & Engines
+https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Mountain Bike TV
+https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/2LSdcga.png" group-title="Comedy",Mystery Science Theater 3000 (MST3K)
+https://amg00163-shoutfactory-mst3k-dmr-gdk46.amagi.tv/playlist/amg00163-shoutfactory-mst3k-dmr/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png" group-title="NEWS",Newsy
+https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="kIDS",NickToons 
+http://143.244.60.30/NICKTOONS/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="kIDS",Nickelodeon East 
+http://143.244.60.30/NICKELODEON/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",QwestTV
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Undefined",Redbox : Redbox 2,RedBox Comedy
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Undefined",Redbox : Redbox 3,RedBox Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Undefined",Redbox : Redbox 1,RedBox Spotlight
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Revry Her
+https://6bda80f950a748f2870036a8a4825727.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-73-OML-BRIGHTCOVE/mt/brightcove/73/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NEWS",Revry News
+https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Sony Movie Channel 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="Undefined",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="General",TBS East 
+http://143.244.60.30/TBS/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/At0BPeA.png" group-title="Education",TUTV
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="Undefined",The Beach Show
+http://30a-tv.com/beachy.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Cycling Channel
+https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png" group-title="Legislative",The Florida Channel 
+https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/ltFBrrj.png" group-title="Religious",The Word Network 
+https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Undefined",Turner Classic Movies (TCM) East 
+http://143.244.60.30/TCM/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Washington Post TV 
+https://amg01655-thewashingtonpo-washingtonpost-klowdtv-fxhac.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-klowdtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="SPORTS",Whacked Out Sports 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/whackedoutsports_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="http://wpcommunitymedia.org/images/city-of-white-plains.png" group-title="Undefined",White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Undefined",WildEarth 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yildiz TV
+http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BB;BR;CA;CL;CO;MX;PA;PE" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="General;MEXICO",Caribbean Advantage TV 
+https://video2.getstreamhosting.com:19360/8216/8216.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="MUSIC",Stingray Classic Rock
+https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="MUSIC",Stingray Classica
+https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="MUSIC",Stingray DJAZZ
+https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="MUSIC",Stingray Easy Listening
+https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="MUSIC",Stingray Flashback 70s
+https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="MUSIC",Stingray Greatest Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="MUSIC",Stingray Hip Hop
+https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="MUSIC",Stingray Hot Country
+https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="MUSIC",Stingray Nothin' But 90s
+https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="MUSIC",Stingray Remember the 80s
+https://i.mjh.nz/SamsungTVPlus/USBD3300022QK.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="MUSIC",Stingray Romance Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="MUSIC",Stingray Smooth Jazz
+https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Stingray Spa
+https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="MUSIC",Stingray Today's K-Pop
+https://i.mjh.nz/SamsungTVPlus/USBD3500016NH.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC",Stingray Today's Latin Pop
+https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="Undefined",Game+ 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fntsy_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORTS",BEIN SPORTS PREMIUM 1HD
+http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="SPORTS",MAVTV Motor Sports UK
+https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="SPORTS",30A Golf Kingdom
+https://30a-tv.com/feeds/vidaa/golf.m3u8?checkedby:iptvcat.com
+
+
+
+
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://static1.squarespace.com/static/5d07b0c8af0f1c0001204144/t/5d07b0f8c2c5b00001d89f93/1560785145428/social+sharing+logo.png?format=1500w",VEVO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
