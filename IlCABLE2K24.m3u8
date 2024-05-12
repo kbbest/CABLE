@@ -109,7 +109,7 @@ http://iptvcdn.airlinktt.co/ttorigin04/live/smil:TIN.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION",HILLSONG
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:HILLSONG.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://static.epg.best/us/3ABN.us.png",3ABN
+#EXTINF:-1 tvg-id="Three Angels Broadcasting Network - 3ABN" group-title="RELIGION" tvg-logo="https://static.epg.best/us/3ABN.us.png",3ABN
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:3ABN.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Living Faith Network" tvg-id="Living Faith Network" group-title="RELIGION" tvg-logo="https://www.lyngsat.com/logo/tv/ll/living-faith-tv-us.png",LIVING FAITH
