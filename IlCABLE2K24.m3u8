@@ -26,7 +26,7 @@ http://iptvcdn.airlinktt.co/ttorigin04/live/smil:TIC4.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:PARLIAMENT.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldL1eHXjoBoM-kJSCDI4tVjubQiR0BBqHdjM3RGbOW6Z1zONeBlTYXG6TuQArTnAdjJQ&usqp=CAU",MCTV Caribbean
-http://iptvcdn.airlinktt.co/ttorigin04/live/smil:MCTV.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Sankhya TV HDTV - SANKHYATV" tvg-id="Sankhya TV HDTV - SANKHYATV" group-title="ENTERTAINMENT" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SANKHYA.smil/playlist.m3u8
