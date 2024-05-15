@@ -25,7 +25,7 @@ http://iptvcdn.airlinktt.co/ttorigin04/live/smil:TIC4.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Parliament of the Republic of Trinidad and Tobago - PARLTT" tvg-id="Parliament of the Republic of Trinidad and Tobago - PARLTT" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:PARLIAMENT.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="BIZZ TV (Trinidad and Tobago) - MCTVTT" tvg-id="BIZZ TV (Trinidad and Tobago) - MCTVTT" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/UbCiAvI.jpeg",BIZZ TV
+#EXTINF:-1 channel-id="" tvg-id="BIZZ TV (Trinidad and Tobago) - MCTVTT" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/UbCiAvI.jpeg",BIZZ TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Sankhya TV HDTV - SANKHYATV" tvg-id="Sankhya TV HDTV - SANKHYATV" group-title="ENTERTAINMENT" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
@@ -80,7 +80,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 channel-id="Fox News Channel (East) - FNC" tvg-id="Fox News Channel (East) - FNC" group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX NEWS
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:FOX_NEWS.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="France 24 English HD" tvg-id="France 24 English HD" group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",FRANCE 24
+#EXTINF:-1 channel-id="" tvg-id="France 24 English HD" group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",FRANCE 24
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FRANCE_24.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="msnbc - msnbc" tvg-id="msnbc - msnbc" group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC 
@@ -175,7 +175,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AE.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:ABC.smil/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="AMC (East)" tvg-id="AMC (East)" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",AMC
+#EXTINF:-1 channel-id="AMCEast.us" tvg-id="AMCEast.us" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",AMC
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:AMC.smil/playlist.m3u8
 
 
@@ -268,7 +268,7 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:SCIENCE.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CBC.smil/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="ActionMAX (East)" tvg-id="ActionMAX (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/action.png",ACTIONMAX  HD 
+#EXTINF:-1 channel-id="ActionMaxEast.us" tvg-id="ActionMaxEast.us" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/action.png",ACTIONMAX  HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12794
 #EXTINF:-1 channel-id="Cinemax (East)" tvg-id="Cinemax (East)" group-title="DELUXE" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/7000/brand.gif?itok=yvWYTa2J",CINEMAX HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12777
@@ -278,8 +278,6 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12727
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12776
 #EXTINF:-1 channel-id="ThrillerMAX (East)" tvg-id="ThrillerMAX (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/thiller.png",CINEMAX THRILLER HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12775
-#EXTINF:-1 channel-id="MGM+ Hits HDTV (East)" tvg-id="MGM+ Hits HDTV (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/HITS.png",MGM+ HITS 
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12759
 #EXTINF:-1 channel-id="HBO 2 (East)" tvg-id="HBO 2 (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/HBO2.png",HBO 2 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12796
 #EXTINF:-1 channel-id="HBO Comedy (East)" tvg-id="HBO Comedy (East)" group-title="DELUXE" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/hbo-comedy-200.png",HBO COMEDY HD 
@@ -290,57 +288,69 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12741
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12743
 #EXTINF:-1 channel-id="HBO Signature (East)" tvg-id="HBO Signature (East)" group-title="DELUXE" tvg-logo="http://www.vector-logo.net/logo_preview/eps/h/HBO_Signature.png",HBO SIGNATURE HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12740
-#EXTINF:-1 channel-id="HBO Zone (East)" tvg-id="HBO Zone (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/ZONE.png",HBO ZONE HD 
+#EXTINF:-1 channel-id="HBO Zone HDTV (East)" tvg-id="HBO Zone HDTV (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/ZONE.png",HBO ZONE HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12742
+
+#EXTINF:-1 channel-id="MGM+ HDTV (East)" tvg-id="MGM+ HDTV (East))" group-title="DELUXE" tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2022/09/MGMPLUS-H-2022.jpg?w=1024",MGM+ 
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421495
+#EXTINF:-1 channel-id="MGM+ Drive-In" tvg-id="MGM+ Drive-In" group-title="DELUXE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/MGM%2B_Drive-In_2023.svg/revision/latest/scale-to-width-down/250?cb=20230117170456",MGM+ Drive-In 
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421449
+#EXTINF:-1 channel-id="MGM+ Hits HDTV (East)" tvg-id="MGM+ Hits HDTV (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/HITS.png",MGM+ HITS 
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12759
+#EXTINF:-1 channel-id="MGM+ Marquee HDTV (East)" tvg-id="MGM+ Marquee HDTV (East)" group-title="DELUXE" tvg-logo="https://www.sling.com/content/dam/sling-tv/channels/AllLOBLogos/Color/EPIX3HD.svg",MGM+ MARQUEE
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421506
+
 #EXTINF:-1 channel-id="Showtime (East)" tvg-id="Showtime (East)" group-title="DELUXE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31Ez1KRGBkL.png",SHOWTIME 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12709
 #EXTINF:-1 channel-id="Showtime 2 HDTV (East)" tvg-id="Showtime 2 HDTV (East)" group-title="DELUXE" tvg-logo="https://archive.org/services/img/Showtime2_201708",SHOWTIME 2 HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12708
 #EXTINF:-1 channel-id="Showtime Extreme HDTV (East)" tvg-id="Showtime Extreme HDTV (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/extreme.png",SHOWTIME EXTREME HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12707
-#EXTINF:-1 channel-id="Showtime FamilyZone (East)" tvg-id="Showtime FamilyZone (East)" group-title="DELUXE" tvg-logo="https://archive.org/services/img/ShowtimeFamilyZone",SHOWTIME FAMILY ZONE 
+#EXTINF:-1 channel-id="ShowtimeFamilyZoneEast.us" tvg-id="ShowtimeFamilyZoneEast.us" group-title="DELUXE" tvg-logo="https://archive.org/services/img/ShowtimeFamilyZone",SHOWTIME FAMILY ZONE 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/22636
-#EXTINF:-1 channel-id="Showtime Next (East)" tvg-id="Showtime Next (East)" group-title="DELUXE" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/Showtime-Next.jpg",SHOWTIME NEXT 
+#EXTINF:-1 channel-id="ShowtimeNextEast.us" tvg-id="ShowtimeNextEast.us" group-title="DELUXE" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/Showtime-Next.jpg",SHOWTIME NEXT 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/24861
-#EXTINF:-1 channel-id="Showtime Women (East)" tvg-id="Showtime Women (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/showomen.png",SHOWTIME WOMEN 
+#EXTINF:-1 channel-id="ShowtimeWomenEast.us" tvg-id="ShowtimeWomenEast.us" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/showomen.png",SHOWTIME WOMEN 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/22635
-#EXTINF:-1 channel-id="STARZ HD (East)" tvg-id="STARZ HD (East)" group-title="DELUXE" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0019/4748/brand.gif?itok=auLWjHZC",STARZ 
+#EXTINF:-1 channel-id="StarzEast.us" tvg-id="StarzEast.us" group-title="DELUXE" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0019/4748/brand.gif?itok=auLWjHZC",STARZ 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12704
-#EXTINF:-1 channel-id="STARZ Comedy HD (East)" tvg-id="STARZ Comedy HD (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/comedy.png",STARZ COMEDY 
+#EXTINF:-1 channel-id="StarzComedyEast.us" tvg-id="StarzComedyEast.us" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/comedy.png",STARZ COMEDY 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12703
-#EXTINF:-1 channel-id="Starz Edge (East)" tvg-id="Starz Edge (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/starzedge.png",STARZ EDGE 
+#EXTINF:-1 channel-id="StarzEdgeEast.us" tvg-id="StarzEdgeEast.us" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/starzedge.png",STARZ EDGE 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12702
-#EXTINF:-1 channel-id="STARZ ENCORE (East)" tvg-id="STARZ ENCORE (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/sencore.png",STARZ ENCORE 
+
+
+
+
+#EXTINF:-1 channel-id="StarzEncoreEast.us" tvg-id="StarzEncoreEast.us" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/sencore.png",STARZ ENCORE 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/22639
-
-#EXTINF:-1 channel-id="STARZ ENCORE Action (East)" tvg-id="STARZ ENCORE Action (East)" group-title="DELUXE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/0500/brand.gif?itok=aQM2o4_k",STARZ ENCORE ACTION 
+#EXTINF:-1 channel-id="StarzEncoreActionEast.us" tvg-id="StarzEncoreActionEast.us" group-title="DELUXE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/0500/brand.gif?itok=aQM2o4_k",STARZ ENCORE ACTION 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421503
-
-#EXTINF:-1 channel-id="STARZ ENCORE Black (East)" tvg-id="STARZ ENCORE Black (East)" group-title="DELUXE" tvg-logo="https://i.vippng.com/png/small/370-3704984_starz-logo-png-png-download-starz-encore-black.png",STARZ ENCORE BLACK 
+#EXTINF:-1 channel-id="StarzEncoreBlackEast.us" tvg-id="StarzEncoreBlackEast.us" group-title="DELUXE" tvg-logo="https://i.vippng.com/png/small/370-3704984_starz-logo-png-png-download-starz-encore-black.png",STARZ ENCORE BLACK 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421450
-
-#EXTINF:-1 channel-id="STARZ ENCORE Suspense (East)" tvg-id="STARZ ENCORE Suspense (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/suspense.png",STARZ ENCORE SUSPENSE 
+#EXTINF:-1 channel-id="StarzEncoreClassicEast.us" tvg-id="StarzEncoreClassicEast.us" group-title="DELUXE" tvg-logo="https://www.starz.com/guides/starzlibrary/images/logo_starzencoreclassic_w.gif",STARZ ENCORE CLASSIC 
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421452
+#EXTINF:-1 channel-id="StarzEncoreSuspenseEast.us" tvg-id="StarzEncoreSuspenseEast.us" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/suspense.png",STARZ ENCORE SUSPENSE 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/22638
+
+
+
 #EXTINF:-1 channel-id="STARZ ENCORE Westerns (East)" tvg-id="STARZ ENCORE Westerns (East)" group-title="DELUXE" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/0499/brand.gif?itok=o0LHP6Od",STARZ ENCORE WESTERN 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12701
-#EXTINF:-1 channel-id="STARZ InBlack (East)" tvg-id="STARZ InBlack (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/sinblack.png",STARZ IN BLACK 
+
+
+
+
+#EXTINF:-1 channel-id="StarzInBlackEast.us" tvg-id="StarzInBlackEast.us" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/sinblack.png",STARZ IN BLACK 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/22640
-#EXTINF:-1 channel-id="Starz Kids and Family (East)" tvg-id="Starz Kids and Family (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/StarzKids&FamilyFHD.png",STARZ KIDS AND FAMILY 
+#EXTINF:-1 channel-id="StarzKidsFamilyEast.us" tvg-id="StarzKidsFamilyEast.us" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/StarzKids&FamilyFHD.png",STARZ KIDS AND FAMILY 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12699
 #EXTINF:-1 channel-id="STARZ ENCORE Family (East)" tvg-id="STARZ ENCORE Family (East)" group-title="DELUXE" tvg-logo="https://www.logolynx.com/images/logolynx/24/24cfcff7f274d9ac1740fa5af4bc8b7a.jpeg",STARZ ENCORE FAMILY 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421451
-#EXTINF:-1 channel-id="STARZ ENCORE Classic (East)" tvg-id="STARZ ENCORE Classic (East)" group-title="DELUXE" tvg-logo="https://www.starz.com/guides/starzlibrary/images/logo_starzencoreclassic_w.gif",STARZ ENCORE CLASSIC 
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421452
-#EXTINF:-1 channel-id="MGM+ (East)" tvg-id="MGM+ (East)" group-title="DELUXE" tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2022/09/MGMPLUS-H-2022.jpg?w=1024",MGM+ 
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421495
 #EXTINF:-1 channel-id="IndiePlex" tvg-id="IndiePlex" group-title="DELUXE" tvg-logo="https://1.bp.blogspot.com/_rDeBsURUQ0E/TCjoHqd8xMI/AAAAAAAAHIU/pdeGS-oMOXA/s320/grfx_05.jpg",INDIEPLEX 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421499
-#EXTINF:-1 channel-id="MGM+ Drive-In" tvg-id="MGM+ Drive-In" group-title="DELUXE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/MGM%2B_Drive-In_2023.svg/revision/latest/scale-to-width-down/250?cb=20230117170456",MGM+ Drive-In 
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421449
 #EXTINF:-1 channel-id="RetroPlex" tvg-id="RetroPlex" group-title="DELUXE" tvg-logo="https://cdn2.scratch.mit.edu/get_image/project/281120850_144x108.png",RETROPLEX 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421505
-#EXTINF:-1 channel-id="MGM+ Marquee HDTV (East)" tvg-id="MGM+ Marquee HDTV (East)" group-title="DELUXE" tvg-logo="https://www.sling.com/content/dam/sling-tv/channels/AllLOBLogos/Color/EPIX3HD.svg",MGM+ MARQUEE
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421506
 #EXTINF:-1 channel-id="HDNet Movies" tvg-id="HDNet Movies" group-title="DELUXE" tvg-logo="https://www.nicepng.com/png/detail/146-1463676_hdnet-movies-logo.png",HDNET MOVIES
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421507
 #EXTINF:-1 channel-id="Showtime Showcase HDTV (East)" tvg-id="Showtime Showcase HDTV (East)" group-title="DELUXE" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-showcase.jpg",SHOWTIME SHOWCASE 
@@ -387,7 +397,7 @@ https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="Cinemax (Panamerican) - CINEMAXE" tvg-id="Cinemax (Panamerican) - CINEMAXE" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CINEMAX.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png",CITY TV
+#EXTINF:-1 channel-id="City Montreal" tvg-id="City Montreal" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png",CITY TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CITY_TV.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Consumer News and Business Channel Canada - CNBC" tvg-id="Consumer News and Business Channel Canada - CNBC" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/au/CNBC.au.png",CNBC 
@@ -404,7 +414,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:COMEDY_CENTRAL.smil/playlist.m3
 #EXTINF:-1 channel-id="WNBC Cozi TV" tvg-id="WNBC Cozi TV" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CoziTV.us.png",CoziTV
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:COZI_TV.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="CTVNewsChannel.ca" tvg-id="CTV News Channel.ca" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CTV
+#EXTINF:-1 channel-id="CTV News Channel" tvg-id="CTV News Channel" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CTV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CTV.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="E! Entertainment Television (East) - E!" tvg-id="E! Entertainment Television (East) - E!" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/EEntertainment.us.png",E! Entertainment
@@ -420,7 +430,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FREEFORM.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:FUSE.smil/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="FX (East)" tvg-id="FX (East)" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FX.png",FX
+#EXTINF:-1 channel-id="FX HDTV (East)" tvg-id="FX HDTV (East)" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FX.png",FX
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FX.smil/playlist.m3u8
 
 
@@ -446,10 +456,10 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:HLN.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:IFC.smil/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="Hallmark Channel (East)" tvg-id="Hallmark Channel (East)" group-title="ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",Hallmark Channel
+#EXTINF:-1 channel-id="HallmarkChannelEast.us" tvg-id="HallmarkChannelEast.us" group-title="ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",Hallmark Channel
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:HALLMARK.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Hallmark Movies and Mysteries" tvg-id="Hallmark Movies and Mysteries" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HallmarkMoviesMysteries.us.png",Hallmark Mov Mys
+#EXTINF:-1 channel-id="HallmarkMoviesMysteriesEast.us" tvg-id="HallmarkMoviesMysteriesEast.us" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HallmarkMoviesMysteries.us.png",Hallmark Mov Mys
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:HALLMARK_MM.smil/playlist.m3u8
 
 
@@ -487,7 +497,7 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:OWN.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Flix (East)" tvg-id="Flix (East)" group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/profile_images/1433180516/FlixxTVlogo2_400x400.png",Flix
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:FLIXX.smil/playlist.m3u8
 
-#EXTINF:-1channel-id="Paramount Network (East)" tvg-id="Paramount Network (East)"  group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",Paramount Network
+#EXTINF:-1channel-id="ParamountNetworkEast.us" tvg-id="ParamountNetworkEast.us"  group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",Paramount Network
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARAMOUNT.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.uk" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="MOVIES",Rakuten Action Movies 
@@ -577,7 +587,7 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20820
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20819
 
 
-#EXTINF:-1 tvg-id="ext" group-title="SPORTS",Bein Sports English HD2
+#EXTINF:-1 tvg-id="beIN Sports (English)" group-title="SPORTS",Bein Sports English HD2
 http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34020
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",AR: BeiN Sports 2 EN 
 http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35
@@ -596,7 +606,7 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15974
 #EXTINF:-1 channel-id="ESPNU" tvg-id="ESPNU" group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg",ESPN U HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15972
 
-#EXTINF:-1 channel-id="ESPN Deportes - ESNDEP.us" tvg-id="ESPN Deportes - ESNDEP.us" group-title="SPORTS" tvg-logo="http://www.ihustlaz.com/BACKGROUNDS/NETWORKS/241C1939C-9C36-7288-9A0EA107DADBA0B1.jpg",ESPN DEPORTES HD
+#EXTINF:-1 channel-id="ESPN Deportes" tvg-id="ESPN Deportes" group-title="SPORTS" tvg-logo="http://www.ihustlaz.com/BACKGROUNDS/NETWORKS/241C1939C-9C36-7288-9A0EA107DADBA0B1.jpg",ESPN DEPORTES HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15970
 
 #EXTINF:-1 channel-id="Fox Deportes en Español (U.S.)" tvg-id="Fox Deportes en Español (U.S.)" group-title="SPORTS" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-480x480.jpg",FOX DEPORTES
@@ -621,28 +631,28 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Sky Sports Action" tvg-id="Sky Sports Action" group-title="SPORTS",SY SPORTS ACTION
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20835
 
-#EXTINF:-1 channel-id="Sky Sports Arena" tvg-id="Sky Sports Arena" group-title="SPORTS",SKY SPORTS ARENA
+#EXTINF:-1 channel-id="SkySportsArena.uk" tvg-id="SkySportsArena.uk" group-title="SPORTS",SKY SPORTS ARENA
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20827
 
-#EXTINF:-1 channel-id="Sky Sports Cricket" tvg-id="Sky Sports Cricket" group-title="SPORTS",SY SPORTS CRICKET
+#EXTINF:-1 channel-id="SkySportsCricket.uk" tvg-id="SkySportsCricket.uk" group-title="SPORTS",SY SPORTS CRICKET
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20834
 
-#EXTINF:-1 channel-id="Sky Sports F1" tvg-id="Sky Sports F1" group-title="SPORTS",SY SPORTS F1
+#EXTINF:-1 channel-id="SkySportsF1.uk" tvg-id="SkySportsF1.uk" group-title="SPORTS",SY SPORTS F1
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20828
 
-#EXTINF:-1 channel-id="Sky Sports Football" tvg-id="Sky Sports Football" group-title="SPORTS",SY  SPORTS FOOTBALL
+#EXTINF:-1 channel-id="SkySportsFootball.uk" tvg-id="SkySportsFootball.uk" group-title="SPORTS",SY  SPORTS FOOTBALL
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20829
 
-#EXTINF:-1 channel-id="Sky Sports Mix HD" tvg-id="Sky Sports Mix HD" group-title="SPORTS",SY SPORTS MIX
+#EXTINF:-1 channel-id="SkySportsMix.uk" tvg-id="SkySportsMix.uk" group-title="SPORTS",SY SPORTS MIX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20830
 
-#EXTINF:-1 channel-id="Sky Sports Premier League" tvg-id="Sky Sports Premier League" group-title="SPORTS",SY SPORTS PREM LEAG
+#EXTINF:-1 channel-id="SkySportsPremierLeague.uk" tvg-id="SkySportsPremierLeague.uk" group-title="SPORTS",SY SPORTS PREM LEAG
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20831
 
-#EXTINF:-1 channel-id="Sky Sports Golf" tvg-id="Sky Sports Golf" group-title="SPORTS",SY SPORTS GOLF
+#EXTINF:-1 channel-id="SkySportsGolf.uk" tvg-id="SkySportsGolf.uk" group-title="SPORTS",SY SPORTS GOLF
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20833
 
-#EXTINF:-1 channel-id="Sky Sports Main Event" tvg-id="Sky Sports Main Event" group-title="SPORTS",SY SPORTS MAIN EVENT
+#EXTINF:-1 channel-id="kySportsMainEvent.uk" tvg-id="kySportsMainEvent.uk" group-title="SPORTS",SY SPORTS MAIN EVENT
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20832
 
 
@@ -879,7 +889,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="TDAmeritradeNetwork.us" tvg-logo="https://i.imgur.com/801jbr9.png" group-title="Business",TD Ameritrade Network 
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 
-#EXTINF:-1 channel-id="CNBC Africa.za" tvg-id="CCNBC Africa.za" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/CNBC_Africa.svg/512px-CNBC_Africa.svg.png" group-title="Business",CNBC Africa 
+#EXTINF:-1 channel-id="CNBC Africa.za" tvg-id="CNBC Africa.za" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/CNBC_Africa.svg/512px-CNBC_Africa.svg.png" group-title="Business",CNBC Africa 
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Business",Bloomberg TV+ 
