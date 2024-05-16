@@ -67,7 +67,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ZEE_CINEMA.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Zee World - ZEEWRL" tvg-id="Zee World - ZEEWRL" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEE_WORLD.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="Bollywood" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bollywood-in.pn", ZEE BOLLYWOOD
+#EXTINF:-1 channel-id="" tvg-id="" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeBollywood.png", ZEE BOLLYWOOD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ZEE_BOLLYWOOD.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="ZeeTV Caribbean - Zee TV" tvg-id="ZeeTV Caribbean - Zee TV" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",Zee Tv
