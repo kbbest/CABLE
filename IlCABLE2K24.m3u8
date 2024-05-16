@@ -697,7 +697,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:WARNER.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="WGNDT.us" tvg-id="WGNDT.us" group-title="ENTERTAINMENT",WGN
+#EXTINF:-1 channel-id="WGNDT.us" tvg-id="WGNDT.us" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/WGNAMERICA.png" group-title="ENTERTAINMENT",WGN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WGN.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="WPIX" tvg-id="WPIX" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WPIX.us.png",WPIX
@@ -732,7 +732,7 @@ https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master
 #EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Business",FOX Business 
 http://41.205.93.154/FOXBUSINESS/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="" group-title="Undefined",Heroes&Icons WKRP 20.4
+#EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/HEROES%26ICONS.png" group-title="Undefined",Heroes&Icons
 https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Undefined",ION
