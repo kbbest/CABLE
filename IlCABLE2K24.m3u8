@@ -72,7 +72,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNN_INTERNATIONAL.smil/playlist
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CGTN_NEWS.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",CNA
+#EXTINF:-1 channel-id="CNA (HD).sg" tvg-id="CNA (HD).sg" group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 
@@ -80,7 +80,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 channel-id="Fox News Channel (East) - FNC" tvg-id="Fox News Channel (East) - FNC" group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX NEWS
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:FOX_NEWS.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="France 24 English HD" group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",FRANCE 24
+#EXTINF:-1 channel-id="France 24 English HD" tvg-id="France 24 English HD" group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",FRANCE 24
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FRANCE_24.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="msnbc - msnbc" tvg-id="msnbc - msnbc" group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC 
@@ -114,11 +114,6 @@ http://iptvcdn.airlinktt.co/ttorigin04/live/smil:3ABN.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Living Faith Network" tvg-id="Living Faith Network" group-title="RELIGION" tvg-logo="https://www.lyngsat.com/logo/tv/ll/living-faith-tv-us.png",LIVING FAITH
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:LIVING_FAITH.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RELIGION",SME
-http://iptvcdn.airlinktt.co/ttorigin03/live/smil:SME.smil/playlist.m3u8
-
-
 
 
 #EXTINF:-1 channel-id="Animal Planet (Latin America English) - APL" tvg-id="Animal Planet (Latin America English) - APL" group-title="KIDS" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png",ANIMAL PLANET
@@ -291,7 +286,7 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12740
 #EXTINF:-1 channel-id="HBO Zone HDTV (East)" tvg-id="HBO Zone HDTV (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/ZONE.png",HBO ZONE HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12742
 
-#EXTINF:-1 channel-id="MGM+ HDTV (East)" tvg-id="MGM+ HDTV (East))" group-title="DELUXE" tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2022/09/MGMPLUS-H-2022.jpg?w=1024",MGM+ 
+#EXTINF:-1 channel-id="MGM+ (East)" tvg-id="MGM+ (East)" group-title="DELUXE" tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2022/09/MGMPLUS-H-2022.jpg?w=1024",MGM+ 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421495
 #EXTINF:-1 channel-id="MGM+ Drive-In" tvg-id="MGM+ Drive-In" group-title="DELUXE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/MGM%2B_Drive-In_2023.svg/revision/latest/scale-to-width-down/250?cb=20230117170456",MGM+ Drive-In 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421449
@@ -367,7 +362,7 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/487943
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/26820
 #EXTINF:-1 channel-id="Showcase.ca" tvg-id="Showcase.ca" tvg-name="SHOWCASE HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/showcase_logo.png?itok=o3PPvzJV" group-title="ENTERTAINMENT",SHOWCASE HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27503
-#EXTINF:-1 channel-id="omni1.ca" tvg-id="omni1.ca" tvg-name="OMNI1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1047479958602276865/-tHInetn_400x400.jpg" group-title="ENTERTAINMENT",OMNI1 HD 
+#EXTINF:-1 channel-id="OMNI.1 HD.ca" tvg-id="OMNI.1 HD.ca" tvg-name="OMNI1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1047479958602276865/-tHInetn_400x400.jpg" group-title="ENTERTAINMENT",OMNI1 HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27506
 
 
@@ -459,7 +454,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:IFC.smil/playlist.m3u8
 #EXTINF:-1 channel-id="HallmarkChannelEast.us" tvg-id="HallmarkChannelEast.us" group-title="ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",Hallmark Channel
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:HALLMARK.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="HallmarkMoviesMysteriesEast.us" tvg-id="HallmarkMoviesMysteriesEast.us" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HallmarkMoviesMysteries.us.png",Hallmark Mov Mys
+#EXTINF:-1 channel-id="Hallmark Movies and Mysteries" tvg-id="Hallmark Movies and Mysteries" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HallmarkMoviesMysteries.us.png",Hallmark Mov Mys
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:HALLMARK_MM.smil/playlist.m3u8
 
 
@@ -535,14 +530,14 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SONY.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:STARS.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/StudioUniversal.ar.png",Studio Universal
+#EXTINF:-1 channel-id="Studio Universal HD.za" tvg-id="Studio Universal HD.za" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/StudioUniversal.ar.png",Studio Universal
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="UniMás HDTV (East) - UNIMASHD.us" tvg-id="UniMás HDTV (East) - UNIMASHD.us" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/UniMas.us.png",UniMas
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:UNIMAS.smil/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png",UNIVERSAL
+#EXTINF:-1 channel-id="Universal TV HD.za" tvg-id="Universal TV HD.za" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png",UNIVERSAL
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:UNIVERSAL.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="UnivisionCanada.ca" tvg-id="UnivisionCanada.ca" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png",UNIVISION
