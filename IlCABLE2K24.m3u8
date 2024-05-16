@@ -620,31 +620,31 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS",PRO SPORTS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Sky Sports Action" tvg-id="Sky Sports Action" group-title="SPORTS",SY SPORTS ACTION
+#EXTINF:-1 channel-id="SkySportsAction.uk" tvg-id="SkySportsAction.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSACTION.png" group-title="SPORTS",SY SPORTS ACTION
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20835
 
-#EXTINF:-1 channel-id="SkySportsArena.uk" tvg-id="SkySportsArena.uk" group-title="SPORTS",SKY SPORTS ARENA
+#EXTINF:-1 channel-id="SkySportsArena.uk" tvg-id="SkySportsArena.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSARENA.png" group-title="SPORTS",SKY SPORTS ARENA
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20827
 
-#EXTINF:-1 channel-id="SkySportsCricket.uk" tvg-id="SkySportsCricket.uk" group-title="SPORTS",SY SPORTS CRICKET
+#EXTINF:-1 channel-id="SkySportsCricket.uk" tvg-id="SkySportsCricket.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSCRICKET.png" group-title="SPORTS",SY SPORTS CRICKET
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20834
 
-#EXTINF:-1 channel-id="SkySportsF1.uk" tvg-id="SkySportsF1.uk" group-title="SPORTS",SY SPORTS F1
+#EXTINF:-1 channel-id="SkySportsF1.uk" tvg-id="SkySportsF1.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSF1.png" group-title="SPORTS",SY SPORTS F1
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20828
 
-#EXTINF:-1 channel-id="SkySportsFootball.uk" tvg-id="SkySportsFootball.uk" group-title="SPORTS",SY  SPORTS FOOTBALL
+#EXTINF:-1 channel-id="SkySportsFootball.uk" tvg-id="SkySportsFootball.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSFOOTBALL.png" group-title="SPORTS",SY  SPORTS FOOTBALL
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20829
 
-#EXTINF:-1 channel-id="SkySportsMix.uk" tvg-id="SkySportsMix.uk" group-title="SPORTS",SY SPORTS MIX
+#EXTINF:-1 channel-id="SkySportsMix.uk" tvg-id="SkySportsMix.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMIX.png" group-title="SPORTS",SY SPORTS MIX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20830
 
-#EXTINF:-1 channel-id="SkySportsPremierLeague.uk" tvg-id="SkySportsPremierLeague.uk" group-title="SPORTS",SY SPORTS PREM LEAG
+#EXTINF:-1 channel-id="SkySportsPremierLeague.uk" tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://lo1.in/LOGO/UK/SkyPREMIERLEAGUE.png" group-title="SPORTS",SY SPORTS PREM LEAG
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20831
 
-#EXTINF:-1 channel-id="SkySportsGolf.uk" tvg-id="SkySportsGolf.uk" group-title="SPORTS",SY SPORTS GOLF
+#EXTINF:-1 channel-id="SkySportsGolf.uk" tvg-id="SkySportsGolf.uk" tvg-logo="https://lo1.in/LOGO/UK/skysportsgolf.png" group-title="SPORTS",SY SPORTS GOLF
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20833
 
-#EXTINF:-1 channel-id="kySportsMainEvent.uk" tvg-id="kySportsMainEvent.uk" group-title="SPORTS",SY SPORTS MAIN EVENT
+#EXTINF:-1 channel-id="kySportsMainEvent.uk" tvg-id="kySportsMainEvent.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMAINEVENT.png" group-title="SPORTS",SY SPORTS MAIN EVENT
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20832
 
 
