@@ -101,7 +101,7 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:FOX_NEWS.smil/playlist.m3u8
 #EXTINF:-1 channel-id="France 24 English HD" tvg-id="France 24 English HD" group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",FRANCE 24
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FRANCE_24.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="RELIGION",HILLSONG
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://lo1.in/LOGO/US/USAMIXED/HILLSONGCHANNEL.png" group-title="RELIGION",HILLSONG
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:HILLSONG.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="msnbc - msnbc" tvg-id="msnbc - msnbc" group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC 
@@ -183,7 +183,7 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 channel-id="BET Her Caribbean - BHER" tvg-id="BET Her Caribbean - BHER" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:CENTRIC.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="KBYU Brigham Young University TV" tvg-id="KBYU Brigham Young University TV" group-title="ENTERTAINMENT" tvg-logo=",BYU
+#EXTINF:-1 channel-id="KBYU Brigham Young University TV" tvg-id="KBYU Brigham Young University TV" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/BYU_tv.jpg",BYU
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BYU.smil/playlist.m3u8
 
 
@@ -264,19 +264,19 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CBC.smil/playlist.m3u8
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12794
 #EXTINF:-1 channel-id="Cinemax (East)" tvg-id="Cinemax (East)" group-title="DELUXE" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/7000/brand.gif?itok=yvWYTa2J",CINEMAX HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12777
-#EXTINF:-1 channel-id="MoreMaxEast.us" tvg-id="MoreMaxEast.us" group-title="DELUXE" tvg-logo="https://www.gmkfreelogos.com/logos/M/img/More_max.gif",CINEMAX MOREMAX HD 
+#EXTINF:-1 channel-id="MoreMaxEast.us" tvg-id="MoreMaxEast.us" group-title="DELUXE" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/CINEMAXMOREMAX.png",CINEMAX MOREMAX HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12727
-#EXTINF:-1 channel-id="OuterMaxEast.us" tvg-id="OuterMaxEast.us" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/outer.png",CINEMAX OUTERMAX HD 
+#EXTINF:-1 channel-id="OuterMaxEast.us" tvg-id="OuterMaxEast.us" group-title="DELUXE" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/CINEMAXOUTERMAX.png",CINEMAX OUTERMAX HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12776
-#EXTINF:-1 channel-id="ThrillerMAX (East)" tvg-id="ThrillerMAX (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/thiller.png",CINEMAX THRILLER HD 
+#EXTINF:-1 channel-id="ThrillerMAX (East)" tvg-id="ThrillerMAX (East)" group-title="DELUXE" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/CINEMAXTHRILLERMAX.png",CINEMAX THRILLER HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12775
-#EXTINF:-1 channel-id="HBO 2 (East)" tvg-id="HBO 2 (East)" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/HBO2.png",HBO 2 
+#EXTINF:-1 channel-id="HBO 2 (East)" tvg-id="HBO 2 (East)" group-title="DELUXE" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HBO_2.png",HBO 2 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12796
 #EXTINF:-1 channel-id="HBO Comedy (East)" tvg-id="HBO Comedy (East)" group-title="DELUXE" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/hbo-comedy-200.png",HBO COMEDY HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12739
 #EXTINF:-1 channel-id="HBO Family (East)" tvg-id="HBO Family (East)" group-title="DELUXE" tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png",HBO FAMILY HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12741
-#EXTINF:-1 channel-id="HBO (East)" tvg-id="HBO (East)" group-title="DELUXE" tvg-logo="http://www.vector-logo.net/logo_preview/ai/h/HBO_LOGO.png",HBO HD 
+#EXTINF:-1 channel-id="HBO (East)" tvg-id="HBO (East)" group-title="DELUXE" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HBO.png",HBO HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12743
 #EXTINF:-1 channel-id="HBO Signature (East)" tvg-id="HBO Signature (East)" group-title="DELUXE" tvg-logo="http://www.vector-logo.net/logo_preview/eps/h/HBO_Signature.png",HBO SIGNATURE HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12740
@@ -343,13 +343,13 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421451
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421499
 #EXTINF:-1 channel-id="RetroPlex" tvg-id="RetroPlex" group-title="DELUXE" tvg-logo="https://cdn2.scratch.mit.edu/get_image/project/281120850_144x108.png",RETROPLEX 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421505
-#EXTINF:-1 channel-id="HDNet Movies" tvg-id="HDNet Movies" group-title="DELUXE" tvg-logo="https://www.nicepng.com/png/detail/146-1463676_hdnet-movies-logo.png",HDNET MOVIES
+#EXTINF:-1 channel-id="HDNet Movies" tvg-id="HDNet Movies" group-title="DELUXE" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HDNetMovies.png",HDNET MOVIES
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421507
 #EXTINF:-1 channel-id="Showtime Showcase HDTV (East)" tvg-id="Showtime Showcase HDTV (East)" group-title="DELUXE" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-showcase.jpg",SHOWTIME SHOWCASE 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421508
 #EXTINF:-1 channel-id="MoviePlex East" tvg-id="MoviePlex East" group-title="DELUXE" tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_movieplex.png",MOVIEPLEX 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421515
-#EXTINF:-1 channel-id="5StarMaxEast.us" tvg-id="5StarMaxEast.us" group-title="DELUXE" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-5-starmax-8614.jpg",5STARMAX 
+#EXTINF:-1 channel-id="5StarMaxEast.us" tvg-id="5StarMaxEast.us" group-title="DELUXE" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/5STARMAX.png",5STARMAX 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/457903
 #EXTINF:-1 channel-id="MOVIEMAX HDTV" tvg-id="MOVIEMAX HDTV" group-title="DELUXE" tvg-logo="https://archive.org/services/img/CinemaxMoviemax",MOVIEMAX 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/457904
@@ -396,7 +396,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CITY_TV.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CNBC.smil/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="MOVIES" tvg-logo="CrackleXUMO.us",Crackle
+#EXTINF:-1 channel-id="" tvg-id="" group-title="MOVIES" tvg-logo="https://lo1.in/LOGO/US/USASTREAMEDCHANNELS/CRACKLE.png",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="Comedy Central (Caribbean) HDTV - COMEDY" tvg-id="Comedy Central (Caribbean) HDTV - COMEDY" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png",COMEDY CENTRAL
