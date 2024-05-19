@@ -131,7 +131,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISNEY.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Disney XD (East)" tvg-id="Disney XD (East)" group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png",DISNEY XD
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISNEYXD.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="NickJrEast.us" tvg-id="NickJrEast.us." group-title="KIDS" tvg-logo="https://static.epg.best/us/NickJr.us.png",NICK JR
+#EXTINF:-1 channel-id="NickJrEast.us" tvg-id="NickJrEast.us" group-title="KIDS" tvg-logo="https://static.epg.best/us/NickJr.us.png",NICK JR
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NICK_JR.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Nicktoons Network (East)" tvg-id="Nicktoons Network (East)" group-title="KIDS" tvg-logo="https://static.epg.best/us/Nicktoons.us.png",NICK TOON
