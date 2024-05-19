@@ -107,6 +107,8 @@ http://iptvcdn.airlinktt.co/ttorigin04/live/smil:HILLSONG.smil/playlist.m3u8
 #EXTINF:-1 channel-id="msnbc - msnbc" tvg-id="msnbc - msnbc" group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC 
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:MSNBC.smil/playlist.m3u8
 
+#EXTINF:-1 channel-id="CNBC Africa.za" tvg-id="CNBC Africa.za" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/CNBC_Africa.svg/512px-CNBC_Africa.svg.png" group-title="Business",CNBC Africa 
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 
 
 #EXTINF:-1 channel-id="Living Faith Network" tvg-id="Living Faith Network" group-title="RELIGION" tvg-logo="https://www.lyngsat.com/logo/tv/ll/living-faith-tv-us.png",LIVING FAITH
@@ -300,9 +302,9 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12702
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/22639
 #EXTINF:-1 channel-id="StarzEncoreActionEast.us" tvg-id="StarzEncoreActionEast.us" group-title="DELUXE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/0500/brand.gif?itok=aQM2o4_k",STARZ ENCORE ACTION 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421503
-#EXTINF:-1 channel-id="StarzEncoreBlackEast.us" tvg-id="StarzEncoreBlackEast.us" group-title="DELUXE" tvg-logo="https://i.vippng.com/png/small/370-3704984_starz-logo-png-png-download-starz-encore-black.png",STARZ ENCORE BLACK 
+#EXTINF:-1 channel-id="StarzEncoreBlackEast.us" tvg-id="StarzEncoreBlackEast.us" group-title="DELUXE" tvg-logo="https://seeklogo.com/images/S/starz-encore-black-logo-EF7C178187-seeklogo.com.png",STARZ ENCORE BLACK 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421450
-#EXTINF:-1 channel-id="StarzEncoreClassicEast.us" tvg-id="StarzEncoreClassicEast.us" group-title="DELUXE" tvg-logo="https://www.starz.com/guides/starzlibrary/images/logo_starzencoreclassic_w.gif",STARZ ENCORE CLASSIC 
+#EXTINF:-1 channel-id="StarzEncoreClassicEast.us" tvg-id="StarzEncoreClassicEast.us" group-title="DELUXE" tvg-logo="https://seeklogo.com/images/S/starz-encore-classic-logo-351F33BCF1-seeklogo.com.png",STARZ ENCORE CLASSIC 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/421452
 #EXTINF:-1 channel-id="StarzEncoreSuspenseEast.us" tvg-id="StarzEncoreSuspenseEast.us" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/suspense.png",STARZ ENCORE SUSPENSE 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/22638
@@ -564,14 +566,14 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20820
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20819
 
 
-#EXTINF:-1 tvg-id="beIN Sports (English)" group-title="SPORTS",Bein Sports English HD2
+#EXTINF:-1 tvg-id="beIN Sports (English)" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-485377DB16-seeklogo.com.png" group-title="SPORTS",Bein Sports English HD2
 http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34020
-#EXTINF:-1 tvg-id="ext" group-title="SPORTS",AR: BeiN Sports 2 EN 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="SPORTS",AR: BeiN Sports 2 EN 
 http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35
-#EXTINF:-1 tvg-id="ext" group-title="SPORTS",BeIN Sports Extra 1
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png" group-title="SPORTS",BeIN Sports Extra 1
 http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/36
 
-#EXTINF:-1 tvg-id="NBAtv.sport" group-title="SPORTS",BeIN Sports NBA 
+#EXTINF:-1 tvg-id="NBAtv.sport" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="SPORTS",BeIN Sports NBA 
 http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34022
 
 #EXTINF:-1 channel-id="ESPN (Caribbean) - ESPNC" tvg-id="ESPN (Caribbean) - ESPNC" group-title="SPORTS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png",ESPN HD
@@ -583,7 +585,7 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15974
 #EXTINF:-1 channel-id="ESPNU" tvg-id="ESPNU" group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg",ESPN U HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15972
 
-#EXTINF:-1 channel-id="ESPN Deportes" tvg-id="ESPN Deportes" group-title="SPORTS" tvg-logo="http://www.ihustlaz.com/BACKGROUNDS/NETWORKS/241C1939C-9C36-7288-9A0EA107DADBA0B1.jpg",ESPN DEPORTES HD
+#EXTINF:-1 channel-id="ESPN Deportes" tvg-id="ESPN Deportes" group-title="SPORTS" tvg-logo="https://seeklogo.com/images/E/espn-deportes-logo-5C44C905CD-seeklogo.com.png",ESPN DEPORTES HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15970
 
 #EXTINF:-1 channel-id="Fox Deportes en Español (U.S.)" tvg-id="Fox Deportes en Español (U.S.)" group-title="SPORTS" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-480x480.jpg",FOX DEPORTES
@@ -602,7 +604,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,R
 #EXTINF:-1 channel-id="SportsMax (Non Jamaican Lineups) - SPMAX" tvg-id="SportsMax (Non Jamaican Lineups) - SPMAX" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",SPORTSMAX
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS",PRO SPORTS
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://seeklogo.com/images/P/pro-sports-logo-A67F5EE420-seeklogo.com.gif" group-title="SPORTS",PRO SPORTS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Sky Sports Action" tvg-id="Sky Sports Action" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSACTION.png" group-title="SPORTS",SY SPORTS ACTION
@@ -700,7 +702,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WPIX.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://i.imgur.com/55vA85a.png",BOAT SHOW
+#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://boatshow.tv/wp-content/uploads/2022/09/theboatshow-logo-62x62.png",BOAT SHOW
 https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/6UpMEN1.png",CHARGE
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
@@ -882,8 +884,6 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="TDAmeritradeNetwork.us" tvg-logo="https://i.imgur.com/801jbr9.png" group-title="Business",TD Ameritrade Network 
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 
-#EXTINF:-1 channel-id="CNBC Africa.za" tvg-id="CNBC Africa.za" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/CNBC_Africa.svg/512px-CNBC_Africa.svg.png" group-title="Business",CNBC Africa 
-https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Business",Bloomberg TV+ 
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
