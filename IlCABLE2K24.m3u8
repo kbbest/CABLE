@@ -605,7 +605,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS",PRO SPORTS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="SkySportsAction.uk" tvg-id="SkySportsAction.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSACTION.png" group-title="SPORTS",SY SPORTS ACTION
+#EXTINF:-1 channel-id="Sky Sports Action" tvg-id="Sky Sports Action" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSACTION.png" group-title="SPORTS",SY SPORTS ACTION
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20835
 
 #EXTINF:-1 channel-id="SkySportsArena.uk" tvg-id="SkySportsArena.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSARENA.png" group-title="SPORTS",SKY SPORTS ARENA
