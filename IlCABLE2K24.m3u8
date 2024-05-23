@@ -690,7 +690,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:WARNER.smil/playlist.m3u8
 #EXTINF:-1 channel-id="WGNDT.us" tvg-id="WGNDT.us" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/WGNAMERICA.png" group-title="ENTERTAINMENT",WGN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WGN.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="WPIX" tvg-id="WPIX" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WPIX.us.png",WPIX
+#EXTINF:-1 channel-id="WPIX" tvg-id="WPIX" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WPIX.us.png",WPIX Channel
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WPIX.smil/playlist.m3u8
 
 
