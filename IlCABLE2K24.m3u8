@@ -234,7 +234,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HISTORY.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="NASA Television" tvg-id="NASA Television" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/rs/Nasa.rs.png",NASA
-http://iptvcdn.airlinktt.co/ttorigin04/live/smil:NASA_PUBLIC.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NASA_PUBLIC.smil/playlist.m3u8
 
 
 #EXTINF:-1 channel-id="National Geographic Channel - NGC" tvg-id="National Geographic Channel - NGC" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NAT GEO
@@ -365,13 +365,6 @@ https://lnc-news12.tubi.video/index.m3u8
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAMIXED/BAYWATCH.png",BAYWATCH
-https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-
-
-#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png",Cats 24/7
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 
 #EXTINF:-1 channel-id="Justice Central" tvg-id="Justice Central" group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",Justice Central
 https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
@@ -411,7 +404,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:COZI_TV.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CTV.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="E! Entertainment Television (East) - E!" tvg-id="E! Entertainment Television (East) - E!" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/EEntertainment.us.png",E! Entertainment
-http://iptvcdn.airlinktt.co/ttorigin04/live/smil:E.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:E.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="FoxEast.us" tvg-id="FoxEast.us" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WBFF.us.png",FOX
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:FOX.smil/playlist.m3u8
@@ -654,7 +647,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ESCAPE.smil/playlist.m3u8
 
 
 #EXTINF:-1 channel-id="NBCEast.us" tvg-id="NBCEast.us" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WDIV.us.png",NBC
-http://iptvcdn.airlinktt.co/ttorigin04/live/smil:NBC.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:NBC.smil/playlist.m3u8
 
 
 #EXTINF:-1 channel-id="Syfy (Latin America) - SYFY" tvg-id="Syfy (Latin America) - SYFY" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",Syfy
