@@ -20,7 +20,7 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TTEN.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="Government Information Services Ltd. - GISL" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
-http://iptvcdn.airlinktt.co/ttorigin04/live/smil:TIC4.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TIC4.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Parliament of the Republic of Trinidad and Tobago - PARLTT" tvg-id="Parliament of the Republic of Trinidad and Tobago - PARLTT" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
 http://iptvcdn.airlinktt.co/ttorigin04/live/smil:PARLIAMENT.smil/playlist.m3u8
