@@ -23,7 +23,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TIC4.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Parliament of the Republic of Trinidad and Tobago - PARLTT" tvg-id="Parliament of the Republic of Trinidad and Tobago - PARLTT" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
-http://iptvcdn.airlinktt.co/ttorigin04/live/smil:PARLIAMENT.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARLIAMENT.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="BIZZ TV (Trinidad and Tobago) - MCTVTT" tvg-id="BIZZ TV (Trinidad and Tobago) - MCTVTT" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/UbCiAvI.jpeg",BIZZ TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
