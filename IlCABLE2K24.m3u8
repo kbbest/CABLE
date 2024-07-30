@@ -555,6 +555,13 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MY33.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:RUSH.smil/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Carib: FLOW 1" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="SPORTS",FLOW 1
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609513
+#EXTINF:-1 tvg-id="" tvg-name="Carib: Flow Sports" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="SPORTS",Flow Sports
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609514
+
+
 #EXTINF:-1 channel-id="TNTSports1.uk" tvg-id="TNTSports1.uk" group-title="SPORTS" tvg-logo="https://i.imgur.com/ZYZKKtv.png",BT SPORT 1 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20821
 
@@ -1003,6 +1010,38 @@ https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: CNBC
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649772
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US: E!" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: E!
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649773
+#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="US: NBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: NBC
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649774
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US: USA Network" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: USA Network
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649775
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA: CBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",CA: CBC
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649776
+#EXTINF:-1 tvg-id="bbconecambridgeshire.uk" tvg-name="UK: BBC One" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: BBC One
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649777
+#EXTINF:-1 tvg-id="bbc2northernireland.uk" tvg-name="UK: BBC Two" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: BBC Two
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649778
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649788
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 2
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649789
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 3" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 3
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649790
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 4" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 4
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649791
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 5" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 5
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649792
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 6" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 6
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649793
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 7" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 7
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649794
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 8" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 8
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649795
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 9" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 9
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649796
 
 
 
