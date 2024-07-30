@@ -616,6 +616,10 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,R
 #EXTINF:-1 channel-id="SportsMax (Non Jamaican Lineups) - SPMAX" tvg-id="SportsMax (Non Jamaican Lineups) - SPMAX" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",SPORTSMAX
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Carib: SPORT MAX 1" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="SPORTS",SPORT MAX 1
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609610
+#EXTINF:-1 tvg-id="" tvg-name="Carib: SPORT MAX 2" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="SPORTS",SPORT MAX 2
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609611
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://seeklogo.com/images/P/pro-sports-logo-A67F5EE420-seeklogo.com.gif" group-title="SPORTS",PRO SPORTS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
