@@ -514,7 +514,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SHOW.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SONY.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Carib Space" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPACE.png" group-title="ENTERTAINMEN",Space
+#EXTINF:-1 tvg-id="" tvg-name="Carib Space" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPACE.png" group-title="ENTERTAINMENT",Space
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609608
 
 #EXTINF:-1 channel-id="Starz (East)" tvg-id="Starz (East)" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Starz.us.png",STARZ
@@ -562,10 +562,26 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MY33.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Rush SD (Caribbean) - RUSHSD" tvg-id="Rush SD (Caribbean) - RUSHSD" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rush.png",RUSH
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:RUSH.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 3" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 3
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609507
+#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 4" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 4
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609508
+#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 5" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 5
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609509
+#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 6" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 6
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609510
+#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 7" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 7
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609506
 
 #EXTINF:-1 tvg-id="" tvg-name="Carib: Flow Sports" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="SPORTS",Flow Sports
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609514
+#EXTINF:-1 channel-id="SportsMax (Non Jamaican Lineups) - SPMAX" tvg-id="SportsMax (Non Jamaican Lineups) - SPMAX" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",SPORTSMAX
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Carib: SPORT MAX 1" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png" group-title="SPORTS",SPORT MAX 1
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609610
+#EXTINF:-1 tvg-id="" tvg-name="Carib: SPORT MAX 2" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png" group-title="SPORTS",SPORT MAX 2
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609611
 
 
 #EXTINF:-1 channel-id="TNTSports1.uk" tvg-id="TNTSports1.uk" group-title="SPORTS" tvg-logo="https://i.imgur.com/ZYZKKtv.png",BT SPORT 1 
@@ -610,16 +626,11 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS1.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Fox Sports 2" tvg-id="Fox Sports 2" group-title="SPORTS" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png",FOXSPORTS2
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS2.smil/playlist.m3u8
 
+
+
 #EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png",Real Madrid
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 
-#EXTINF:-1 channel-id="SportsMax (Non Jamaican Lineups) - SPMAX" tvg-id="SportsMax (Non Jamaican Lineups) - SPMAX" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",SPORTSMAX
-http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Carib: SPORT MAX 1" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="SPORTS",SPORT MAX 1
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609610
-#EXTINF:-1 tvg-id="" tvg-name="Carib: SPORT MAX 2" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="SPORTS",SPORT MAX 2
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609611
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://seeklogo.com/images/P/pro-sports-logo-A67F5EE420-seeklogo.com.gif" group-title="SPORTS",PRO SPORTS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
