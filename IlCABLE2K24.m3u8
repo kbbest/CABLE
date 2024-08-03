@@ -633,38 +633,38 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,R
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://seeklogo.com/images/P/pro-sports-logo-A67F5EE420-seeklogo.com.gif" group-title="SPORTS",PRO SPORTS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Sky Sports Action" tvg-id="Sky Sports Action" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSACTION.png" group-title="SPORTS",SY SPORTS ACTION
+#EXTINF:-1 channel-id="Sky Sports Action" tvg-id="Sky Sports Action" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSACTION.png" group-title="SPORTS",SKY SPORTS ACTION
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508238
 
 #EXTINF:-1 channel-id="SkySportsArena.uk" tvg-id="SkySportsArena.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSARENA.png" group-title="SPORTS",SKY SPORTS ARENA
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508240
 
-#EXTINF:-1 channel-id="SkySportsCricket.uk" tvg-id="SkySportsCricket.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSCRICKET.png" group-title="SPORTS",SY SPORTS CRICKET
+#EXTINF:-1 channel-id="SkySportsCricket.uk" tvg-id="SkySportsCricket.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSCRICKET.png" group-title="SPORTS",SKY SPORTS CRICKET
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508244
 
-#EXTINF:-1 channel-id="SkySportsF1.uk" tvg-id="SkySportsF1.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSF1.png" group-title="SPORTS",SY SPORTS F1
+#EXTINF:-1 channel-id="SkySportsF1.uk" tvg-id="SkySportsF1.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSF1.png" group-title="SPORTS",SKY SPORTS F1
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508246
 
-#EXTINF:-1 channel-id="SkySportsFootball.uk" tvg-id="SkySportsFootball.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSFOOTBALL.png" group-title="SPORTS",SY  SPORTS FOOTBALL
+#EXTINF:-1 channel-id="SkySportsFootball.uk" tvg-id="SkySportsFootball.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSFOOTBALL.png" group-title="SPORTS",SKY  SPORTS FOOTBALL
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508248
 
-#EXTINF:-1 channel-id="SkySportsMix.uk" tvg-id="SkySportsMix.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMIX.png" group-title="SPORTS",SY SPORTS MIX
+#EXTINF:-1 channel-id="SkySportsMix.uk" tvg-id="SkySportsMix.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMIX.png" group-title="SPORTS",SKY SPORTS MIX
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508254
 
-#EXTINF:-1 channel-id="SkySportsPremierLeague.uk" tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://lo1.in/LOGO/UK/SkyPREMIERLEAGUE.png" group-title="SPORTS",SY SPORTS PREM LEAG
+#EXTINF:-1 channel-id="SkySportsPremierLeague.uk" tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://lo1.in/LOGO/UK/SkyPREMIERLEAGUE.png" group-title="SPORTS",SKY SPORTS PREM LEAG
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508256
 
-#EXTINF:-1 channel-id="SkySportsGolf.uk" tvg-id="SkySportsGolf.uk" tvg-logo="https://lo1.in/LOGO/UK/skysportsgolf.png" group-title="SPORTS",SY SPORTS GOLF
+#EXTINF:-1 channel-id="SkySportsGolf.uk" tvg-id="SkySportsGolf.uk" tvg-logo="https://lo1.in/LOGO/UK/skysportsgolf.png" group-title="SPORTS",SKY SPORTS GOLF
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508250
 
-#EXTINF:-1 channel-id="SkySportsMainEvent.uk" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMAINEVENT.png" group-title="SPORTS",SY SPORTS MAIN EVENT
+#EXTINF:-1 channel-id="SkySportsMainEvent.uk" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMAINEVENT.png" group-title="SPORTS",SKY SPORTS MAIN EVENT
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508252
 
-#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-name="UK: SKY SPORTS Box Office [Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS Box Office [Events Only]
+#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-name="SKY SPORTS Box Office [Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",SKY SPORTS Box Office [Events Only]
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508242
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: Sky Sports News
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",Sky Sports News
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508068
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: SKY SPORTS Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS Racing
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="SKY SPORTS Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",SKY SPORTS Racing
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508258
 
 
