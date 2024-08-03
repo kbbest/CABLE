@@ -225,7 +225,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DIY.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOOD_NETWORK.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Carib: FLOW 1" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="ENTERTAINMENT",FLOW 1
+#EXTINF:-1 tvg-id="" tvg-name="Flow 1 (Trinidad Only) HDTV - FLOW1" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="ENTERTAINMENT",FLOW 1
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609513
 
 #EXTINF:-1 channel-id="FYI - FYI" tvg-id="FYI - FYI" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI
