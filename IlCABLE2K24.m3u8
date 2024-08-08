@@ -185,11 +185,11 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508250
 #EXTINF:-1 channel-id="SkySportsMainEvent.uk" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMAINEVENT.png" group-title="SPORTS",SKY SPORTS MAIN EVENT
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508252
 
-#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-name="SKY SPORTS Box Office [Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",SKY SPORTS Box Office [Events Only]
+#EXTINF:-1 channel-id="SkySportsBoxOffice.uk" tvg-id="skysportsboxoffice.uk" tvg-name="SKY SPORTS Box Office [Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",SKY SPORTS Box Office [Events Only]
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508242
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",Sky Sports News
+#EXTINF:-1 channel-id="SkySportsNews.uk" tvg-id="skysportsnews.uk" tvg-name="Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",Sky Sports News
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508068
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="SKY SPORTS Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",SKY SPORTS Racing
+#EXTINF:-1 channel-id="SkySportsRacing.uk" tvg-id="skysportsracing.uk" tvg-name="SKY SPORTS Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",SKY SPORTS Racing
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508258
 
 
@@ -308,14 +308,20 @@ https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 channel-id="AXN (Andes English) - AXN" tvg-id="AXN (Andes English) - AXN" group-title="ENTERTAINMENT" tvg-logo="https://imgur.com/LIuQ7MH.png",AXN
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AXN.smil/playlist.m3u8
 
-#EXTINF:0 channel-id="A Wealth of Entertainment" tvg-id="A Wealth of Entertainment" tvg-country="US" tvg-logo="https://i.imgur.com/OjpCtGj.png" group-title="ENTERTAINMENT",AWE 
+#EXTINF:0 channel-id="A Wealth of Entertainment - AWE" tvg-id="A Wealth of Entertainment - AWE" tvg-country="US" tvg-logo="https://i.imgur.com/OjpCtGj.png" group-title="ENTERTAINMENT",AWE 
 https://cdn.klowdtv.net/803B48A/awe_aws_ms/AWE.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 channel-id="Black Entertainment Television (Caribbean) - BET" tvg-id="Black Entertainment Television (Caribbean) - BET" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",Bet
-http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BET.smil/playlist.m3u8
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609445
 
 #EXTINF:-1 channel-id="BET Her Caribbean - BHER" tvg-id="BET Her Caribbean - BHER" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
-http://iptvcdn.airlinktt.co/ttorigin03/live/smil:CENTRIC.smil/playlist.m3u8
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609449
+
+#EXTINF:-1 channel-id="BET Gospel - GOSP" tvg-id="BET Gospel - GOSP" tvg-name="Carib: BET Gospel" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BETGOSPEL.png" group-title="ENTERTAINMENT",BET Gospel
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609446
+
+#EXTINF:-1 channel-id="BET Soul - BETSOUL"tvg-id="" tvg-name="BET SOUL" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BETSOUL.png" group-title="ENTERTAINMENT",BET SOUL
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609447
 
 #EXTINF:-1 channel-id="KBYU Brigham Young University TV" tvg-id="KBYU Brigham Young University TV" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/BYU_tv.jpg",BYU
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BYU.smil/playlist.m3u8
