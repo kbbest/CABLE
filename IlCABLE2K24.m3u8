@@ -317,10 +317,10 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609445
 #EXTINF:-1 channel-id="BET Her Caribbean - BHER" tvg-id="BET Her Caribbean - BHER" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609449
 
-#EXTINF:-1 channel-id="BET Gospel - GOSP" tvg-id="BET Gospel - GOSP" tvg-name="Carib: BET Gospel" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BETGOSPEL.png" group-title="ENTERTAINMENT",BET Gospel
+#EXTINF:-1 channel-id="BET Gospel - GOSP" tvg-id="BET Gospel - GOSP" tvg-name="BET Gospel" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BETGOSPEL.png" group-title="ENTERTAINMENT",BET Gospel
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609446
 
-#EXTINF:-1 channel-id="BET Soul - BETSOUL"tvg-id="" tvg-name="BET SOUL" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BETSOUL.png" group-title="ENTERTAINMENT",BET SOUL
+#EXTINF:-1 channel-id="BET Soul - BETSOUL" tvg-id="BET Soul - BETSOUL" tvg-name="BET SOUL" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BETSOUL.png" group-title="ENTERTAINMENT",BET SOUL
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609447
 
 #EXTINF:-1 channel-id="KBYU Brigham Young University TV" tvg-id="KBYU Brigham Young University TV" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/BYU_tv.jpg",BYU
