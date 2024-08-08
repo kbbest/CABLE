@@ -158,7 +158,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,R
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://seeklogo.com/images/P/pro-sports-logo-A67F5EE420-seeklogo.com.gif" group-title="SPORTS",PRO SPORTS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Sky Sports Action" tvg-id="Sky Sports Action" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSACTION.png" group-title="SPORTS",SKY SPORTS ACTION
+#EXTINF:-1 channel-id="Sky Sports Action" tvg-id="" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSACTION.png" group-title="SPORTS",SKY SPORTS ACTION
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508238
 
 #EXTINF:-1 channel-id="SkySportsArena.uk" tvg-id="SkySportsArena.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSARENA.png" group-title="SPORTS",SKY SPORTS ARENA
@@ -191,8 +191,13 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508242
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508068
 #EXTINF:-1 channel-id="SkySportsRacing.uk" tvg-id="skysportsracing.uk" tvg-name="SKY SPORTS Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",SKY SPORTS Racing
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508258
+#EXTINF:-1 channel-id="SkySportsTennis.uk" tvg-id="SkySportsTennis.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png" group-title="SPORTS",Sky Sports Tennis
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/612562
 
-
+#EXTINF:-1 channel-id="ViaplaySports1.uk" tvg-id="ViaplaySports1.uk" tvg-name="Via Play sports 1" tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/amazon.u.png" group-title="SPORTS",Via Play sports 1
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/560088
+#EXTINF:-1 channel-id="ViaplaySports2.uk" tvg-id="ViaplaySports2.uk" tvg-name="Via Play Sports 2" tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/amazon.u.png" group-title="SPORTS",Via Play Sports 2
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/560089
 
 
 
@@ -699,9 +704,9 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MY33.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport 1" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png" group-title="UK SPORTS",UK: Eurosport 1
+#EXTINF:-1 channel-id="Eurosport1.uk" tvg-id="Eurosport1.uk" tvg-name="Eurosport 1" tvg-logo="https://lo1.in/LOGO/UK/EUROSPORTS1.png" group-title="SPORTS",Eurosport 1
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508204
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/250px-Eurosport_2_Logo_2015.png" group-title="UK SPORTS",UK: Eurosport 2
+#EXTINF:-1 channel-id="Eurosport2.uk" tvg-id="Eurosport2.uk" tvg-name="Eurosport 2" tvg-logo="https://lo1.in/LOGO/UK/EUROSPORTS2.png" group-title="SPORTS",Eurosport 2
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508206
 #EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 1 FHD" tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/amazon.u.png" group-title="UK SPORTS",UK: Europsort XTRA 1 FHD
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/560103
@@ -729,7 +734,7 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508210
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/560087
 #EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title="UK SPORTS",UK: LFC TV
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508216
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK: MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="UK SPORTS",UK: MUTV
+#EXTINF:-1 channel-id="MUTV.uk" tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORTS",MUTV
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508219
 #EXTINF:-1 tvg-id="" tvg-name="UK: PDC DARTS 01 (EVENT TIME ONLY)" tvg-logo="http://onlytimewilltell.xyz:2086/images/6b73e045edb0c8f692022f99379f2774.png" group-title="UK SPORTS",UK: PDC DARTS 01 (EVENT TIME ONLY)
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/509484
@@ -739,14 +744,13 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/509485
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508229
 #EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: PREMIER SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/1280px-Premier_sports_logo_2018.svg.png" group-title="UK SPORTS",UK: PREMIER SPORTS 2
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508231
-#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: Racing TV" tvg-logo="https://tauntonracecourse.co.uk/wp-content/uploads/2017/11/racing-uk-logo-v2.png" group-title="UK SPORTS",UK: Racing TV
+#EXTINF:-1 channel-id="RacingTV.uk" tvg-id="RacingTV.uk" tvg-name="Racing TV" tvg-logo="https://tauntonracecourse.co.uk/wp-content/uploads/2017/11/racing-uk-logo-v2.png" group-title="SPORTS",Racing TV
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508233
 
 
 
 
-#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png" group-title="UK SPORTS",UK: Sky Sports Tennis FHD
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/612562
+
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: TNT SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="UK SPORTS",UK: TNT SPORTS  1
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508184
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="UK SPORTS",UK: TNT SPORTS 2
@@ -773,10 +777,6 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508196
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508198
 #EXTINF:-1 tvg-id="BTSportUltimate.uk" tvg-name="UK: TNT SPORTS Ultimate ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="UK SPORTS",UK: TNT SPORTS Ultimate ⁴ᴷ
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508199
-#EXTINF:-1 tvg-id="" tvg-name="UK: Via Play sports 1" tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/amazon.u.png" group-title="UK SPORTS",UK: Via Play sports 1
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/560088
-#EXTINF:-1 tvg-id="" tvg-name="UK: Via Play Sports 2" tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/amazon.u.png" group-title="UK SPORTS",UK: Via Play Sports 2
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/560089
 
 
 
