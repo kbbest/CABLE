@@ -83,6 +83,8 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEETV.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://seeklogo.com/images/P/pro-sports-logo-A67F5EE420-seeklogo.com.gif" group-title="SPORTS",PRO SPORTS
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Rush SD (Caribbean) - RUSHSD" tvg-id="Rush SD (Caribbean) - RUSHSD" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rush.png",RUSH
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:RUSH.smil/playlist.m3u8
@@ -94,18 +96,6 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="SportsMax 2 - SPTMAX2" tvg-id="SportsMax 2 - SPTMAX2" tvg-name="" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png" group-title="SPORTS",SPORT MAX 2
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609611
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 3" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 3
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609507
-#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 4" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 4
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609508
-#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 5" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 5
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609509
-#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 6" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 6
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609510
-#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 7" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 7
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609506
 
 #EXTINF:-1 channel-id="ESPN (Caribbean) - ESPNC" tvg-id="ESPN (Caribbean) - ESPNC" group-title="SPORTS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png",ESPN HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15976
@@ -129,17 +119,6 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20820
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20819
 
 
-#EXTINF:-1 tvg-id="beIN Sports (English)" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-485377DB16-seeklogo.com.png" group-title="SPORTS",Bein Sports English HD2
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34020
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="SPORTS",AR: BeiN Sports 2 EN 
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png" group-title="SPORTS",BeIN Sports Extra 1
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/36
-
-#EXTINF:-1 tvg-id="NBAtv.sport" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="SPORTS",BeIN Sports NBA 
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34022
-
-
 #EXTINF:-1 channel-id="Fox Deportes en Español (U.S.)" tvg-id="Fox Deportes en Español (U.S.)" group-title="SPORTS" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-480x480.jpg",FOX DEPORTES
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25341
 
@@ -150,13 +129,6 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS1.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Fox Sports 2" tvg-id="Fox Sports 2" group-title="SPORTS" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png",FOXSPORTS2
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS2.smil/playlist.m3u8
 
-
-
-#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png",Real Madrid
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
-
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://seeklogo.com/images/P/pro-sports-logo-A67F5EE420-seeklogo.com.gif" group-title="SPORTS",PRO SPORTS
-http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Sky Sports Action" tvg-id="" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSACTION.png" group-title="SPORTS",SKY SPORTS ACTION
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508238
@@ -185,11 +157,11 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508250
 #EXTINF:-1 channel-id="SkySportsMainEvent.uk" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMAINEVENT.png" group-title="SPORTS",SKY SPORTS MAIN EVENT
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508252
 
-#EXTINF:-1 channel-id="SkySportsBoxOffice.uk" tvg-id="skysportsboxoffice.uk" tvg-name="SKY SPORTS Box Office [Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",SKY SPORTS Box Office [Events Only]
+#EXTINF:-1 channel-id="SkySportsBoxOffice.uk" tvg-id="SkySportsBoxOffice.uk" tvg-name="SKY SPORTS Box Office" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",SKY SPORTS Box Office
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508242
-#EXTINF:-1 channel-id="SkySportsNews.uk" tvg-id="skysportsnews.uk" tvg-name="Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",Sky Sports News
+#EXTINF:-1 channel-id="SkySportsNews.uk" tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSNEWS.png" group-title="SPORTS",Sky Sports News
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508068
-#EXTINF:-1 channel-id="SkySportsRacing.uk" tvg-id="skysportsracing.uk" tvg-name="SKY SPORTS Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORTS",SKY SPORTS Racing
+#EXTINF:-1 channel-id="SkySportsRacing.uk" tvg-id="SkySportsRacing.uk" tvg-name="SKY SPORTS Racing" tvg-logo="https://lo1.in/LOGO/UK/SkySportsRacing.png" group-title="SPORTS",SKY SPORTS Racing
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508258
 #EXTINF:-1 channel-id="SkySportsTennis.uk" tvg-id="SkySportsTennis.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png" group-title="SPORTS",Sky Sports Tennis
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/612562
@@ -201,7 +173,47 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/560089
 
 
 
+#EXTINF:-1 channel-id="Eurosport1.uk" tvg-id="Eurosport1.uk" tvg-name="Eurosport 1" tvg-logo="https://lo1.in/LOGO/UK/EUROSPORTS1.png" group-title="SPORTS",Eurosport 1
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508204
+#EXTINF:-1 channel-id="Eurosport2.uk" tvg-id="Eurosport2.uk" tvg-name="Eurosport 2" tvg-logo="https://lo1.in/LOGO/UK/EUROSPORTS2.png" group-title="SPORTS",Eurosport 2
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508206
 
+#EXTINF:-1 channel-id="MUTV.uk" tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORTS",MUTV
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508219
+
+#EXTINF:-1 channel-id="RacingTV.uk" tvg-id="RacingTV.uk" tvg-name="Racing TV" tvg-logo="https://tauntonracecourse.co.uk/wp-content/uploads/2017/11/racing-uk-logo-v2.png" group-title="SPORTS",Racing TV
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508233
+
+
+
+#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png",Real Madrid
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 3" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 3
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609507
+#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 4" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 4
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609508
+#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 5" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 5
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609509
+#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 6" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 6
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609510
+#EXTINF:-1 tvg-id="" tvg-name="Carib: RUSH EXTRA 7" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png" group-title="SPORTS",RUSH EXTRA 7
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609506
+
+
+
+
+#EXTINF:-1 tvg-id="beIN Sports (English)" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-485377DB16-seeklogo.com.png" group-title="SPORTS",Bein Sports English HD2
+http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34020
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="SPORTS",AR: BeiN Sports 2 EN 
+http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png" group-title="SPORTS",BeIN Sports Extra 1
+http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/36
+
+#EXTINF:-1 tvg-id="NBAtv.sport" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="SPORTS",BeIN Sports NBA 
+http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34022
 
 
 
@@ -703,11 +715,6 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MY33.smil/playlist.m3u8
 
 
 
-
-#EXTINF:-1 channel-id="Eurosport1.uk" tvg-id="Eurosport1.uk" tvg-name="Eurosport 1" tvg-logo="https://lo1.in/LOGO/UK/EUROSPORTS1.png" group-title="SPORTS",Eurosport 1
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508204
-#EXTINF:-1 channel-id="Eurosport2.uk" tvg-id="Eurosport2.uk" tvg-name="Eurosport 2" tvg-logo="https://lo1.in/LOGO/UK/EUROSPORTS2.png" group-title="SPORTS",Eurosport 2
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508206
 #EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 1 FHD" tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/amazon.u.png" group-title="UK SPORTS",UK: Europsort XTRA 1 FHD
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/560103
 #EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 2 FHD" tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/amazon.u.png" group-title="UK SPORTS",UK: Europsort XTRA 2 FHD
@@ -734,8 +741,6 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508210
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/560087
 #EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title="UK SPORTS",UK: LFC TV
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508216
-#EXTINF:-1 channel-id="MUTV.uk" tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORTS",MUTV
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508219
 #EXTINF:-1 tvg-id="" tvg-name="UK: PDC DARTS 01 (EVENT TIME ONLY)" tvg-logo="http://onlytimewilltell.xyz:2086/images/6b73e045edb0c8f692022f99379f2774.png" group-title="UK SPORTS",UK: PDC DARTS 01 (EVENT TIME ONLY)
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/509484
 #EXTINF:-1 tvg-id="" tvg-name="UK: PDC DARTS 02 (EVENT TIME ONLY)" tvg-logo="http://onlytimewilltell.xyz:2086/images/6b73e045edb0c8f692022f99379f2774.png" group-title="UK SPORTS",UK: PDC DARTS 02 (EVENT TIME ONLY)
@@ -744,9 +749,6 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/509485
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508229
 #EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: PREMIER SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/1280px-Premier_sports_logo_2018.svg.png" group-title="UK SPORTS",UK: PREMIER SPORTS 2
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508231
-#EXTINF:-1 channel-id="RacingTV.uk" tvg-id="RacingTV.uk" tvg-name="Racing TV" tvg-logo="https://tauntonracecourse.co.uk/wp-content/uploads/2017/11/racing-uk-logo-v2.png" group-title="SPORTS",Racing TV
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/508233
-
 
 
 
