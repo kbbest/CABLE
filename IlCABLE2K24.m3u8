@@ -13,6 +13,14 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TV6.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Synergy TV - SYNERGY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",Synergy
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
 
+#EXTINF:-1 channel-id="Tempo - TEMPO" tvg-id="Tempo - TEMPO" tvg-name="TEMPO" tvg-logo="https://b3190995.smushcdn.com/3190995/wp-content/uploads/2018/05/TEMPO-Logo-RGB-copy-300x300.png" group-title="ENTERTAINMENT",TEMPO
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609623
+
+
+
+
+
+
 #EXTINF:-1 channel-id="Music and Entertainment Television - TTEN" tvg-id="Music and Entertainment Television - TTEN" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TTEN.smil/playlist.m3u8
 
