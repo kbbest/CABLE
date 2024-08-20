@@ -296,6 +296,9 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NICK_TOONS.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Nickelodeon (Latin America North, English) - NICK" tvg-id="Nickelodeon (Latin America North, English) - NICK" group-title="KIDS" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",NICKELODEON
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:NICKELODEON.smil/playlist.m3u8
 
+#EXTINF:-1 channel-id="Tooncast Latin America (English) - TOONC" tvg-id="Tooncast Latin America (English) - TOONC" tvg-name="TOONCAST" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TOONCAST.png" group-title="KIDS",TOONCAST
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609630
+
 #EXTINF:-1 channel-id="" tvg-id="" group-title="KIDS" tvg-logo="https://static.epg.best/us/PBSKids.us.png",PBS KIDS
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:PBS_KIDS.smil/playlist.m3u8
 
