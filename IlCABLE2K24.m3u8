@@ -280,7 +280,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CARTOON.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="KIDS",Cartoonito
+#EXTINF:-1 channel-id="Cartoonito International (Latin America - English) - CTNO" tvg-id="Cartoonito International (Latin America - English) - CTNO" tvg-name="Cartoonito" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="KIDS",Cartoonito
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609451
 
 
@@ -588,7 +588,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CNBC.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CARS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/CARSTV.png" group-title="ENTERTAINMENT",CARS
+#EXTINF:-1 channel-id="CARS.TV - CARSTV" tvg-id="CARS.TV - CARSTV" tvg-name="CARS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/CARSTV.png" group-title="ENTERTAINMENT",CARS
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609459
 
 
