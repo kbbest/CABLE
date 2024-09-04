@@ -278,6 +278,18 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BABY_TV.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Cartoon Network (Latin America in English) - TOON" tvg-id="Cartoon Network (Latin America in English) - TOON" group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON Network
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CARTOON.smil/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="KIDS",Cartoonito
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609451
+
+
+
+
+
+
+
+
 #EXTINF:-1 channel-id="Discovery Kids Latin America (English) - DKIDEN" tvg-id="Discovery Kids Latin America (English) - DKIDEN" group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png",DISCOVERY KIDS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
 
@@ -414,6 +426,16 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:SCIENCE.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CBC.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Carib: CALA ACTION" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/CALAACTION.png" group-title="DELUXE",CALA ACTION
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609420
+#EXTINF:-1 tvg-id="" tvg-name="Carib: CALA BASH" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="DELUXE",CALA BASH
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609455
+#EXTINF:-1 tvg-id="" tvg-name="CALA CLASSIC" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/16c59e92-710b-41c7-9617-8cb3a7fdb40f/logo-calaclassics.png" group-title="DELUXE",CALA CLASSIC
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609456
+#EXTINF:-1 tvg-id="" tvg-name="CALA WEATHER" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/9f096de1-898a-4d5d-a46b-ef2f7aa0b75e/calaweather-gradient.png" group-title="DELUXE",CALA WEATHER
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609457
+#EXTINF:-1 tvg-id="" tvg-name="CALA WESTERN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/d183bcef-32c3-43a2-be55-8960793db713/calawesterns-gradient.png" group-title="DELUXE",CALA WESTERN
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609458
 #EXTINF:-1 channel-id="ActionMaxEast.us" tvg-id="ActionMaxEast.us" group-title="DELUXE" tvg-logo="http://stmgroup.xyz/logo/action.png",ACTIONMAX  HD 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12794
 #EXTINF:-1 channel-id="Cinemax (East)" tvg-id="Cinemax (East)" group-title="DELUXE" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/7000/brand.gif?itok=yvWYTa2J",CINEMAX HD 
@@ -545,6 +567,10 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CNBC.smil/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CARS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/CARSTV.png" group-title="ENTERTAINMENT",CARS
+http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609459
 
 
 
