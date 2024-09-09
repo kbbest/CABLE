@@ -95,7 +95,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEETV.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Rush SD (Caribbean) - RUSHSD" tvg-id="Rush SD (Caribbean) - RUSHSD" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rush.png",RUSH
-http://iptvcdn.airlinktt.co/ttorigin07/live/smil:RUSH.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:RUSH.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Flow Sports (Caribbean) - FLSPS" tvg-id="Flow Sports (Caribbean) - FLSPS" tvg-name="Flow Sports" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS.png" group-title="SPORTS",Flow Sports
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609514
