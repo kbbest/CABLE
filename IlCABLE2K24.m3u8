@@ -651,6 +651,9 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:HLN.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:IFC.smil/playlist.m3u8
 
 
+#EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="ENTERTAINMENT",ION
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 channel-id="HallmarkChannelEast.us" tvg-id="HallmarkChannelEast.us" group-title="ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",Hallmark Channel
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:HALLMARK.smil/playlist.m3u8
 
@@ -871,6 +874,10 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:NBC.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYFY.smil/playlist.m3u8
 
 
+#EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="ENTERTAINMENT",TBS East 
+http://143.244.60.30/TBS/index.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:-1 channel-id="Travel and Living (Latin America English) - TLC" tvg-id="Travel and Living (Latin America English) - TLC" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TLC.us.png",TLC
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TLC.smil/playlist.m3u8
 
@@ -940,7 +947,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://i.imgur.com/J1w8bAW.png" group-title="RELIGION",Christian Youth Channel
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8?checkedby:iptvcat.com
-#EXTINF:0 channel-id="Cine Sony Television - CSONY.us" tvg-id="Cine Sony Television - CSONY.us" tvg-country="US" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="MOVIES",Cine Sony 
+#EXTINF:0 channel-id="Cine Sony Television - CSONY.us" tvg-id="Cine Sony Television - CSONY.us" tvg-country="US" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="DELUXE",Cine Sony 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Crime Hunters
 https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8?checkedby:iptvcat.com
@@ -1009,8 +1016,6 @@ https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="Undefined",Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="General",TBS East 
-http://143.244.60.30/TBS/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://i.imgur.com/At0BPeA.png" group-title="General",TUTV
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8?checkedby:iptvcat.com
@@ -1027,7 +1032,7 @@ https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqj
 #EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://i.imgur.com/ltFBrrj.png" group-title="RELIGION",The Word Network 
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Undefined",Turner Classic Movies (TCM) East 
+#EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Undefined",Turner Classic Movies (TCM) 
 http://143.244.60.30/TCM/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 channel-id="" tvg-id="" tvg-country="US" tvg-logo="" group-title="Undefined",Washington Post TV 
@@ -1093,39 +1098,6 @@ https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: CNBC
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649772
-#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US: E!" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: E!
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649773
-#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="US: NBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: NBC
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649774
-#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US: USA Network" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: USA Network
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649775
-#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA: CBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",CA: CBC
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649776
-#EXTINF:-1 tvg-id="bbconecambridgeshire.uk" tvg-name="UK: BBC One" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: BBC One
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649777
-#EXTINF:-1 tvg-id="bbc2northernireland.uk" tvg-name="UK: BBC Two" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: BBC Two
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649778
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649788
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 2
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649789
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 3" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 3
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649790
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 4" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 4
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649791
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 5" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 5
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649792
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 6" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 6
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649793
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 7" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 7
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649794
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 8" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 8
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649795
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 9" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 9
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/649796
 
 
 
