@@ -36,7 +36,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARLIAMENT.smil/playlist.m3u8
 #EXTINF:-1 channel-id="BIZZ TV (Trinidad and Tobago) - MCTVTT" tvg-id="BIZZ TV (Trinidad and Tobago) - MCTVTT" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/UbCiAvI.jpeg",BIZZ TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="WESN HDTV - WESNDT" tvg-id="WESN HDTV - WESNDT" group-title="ENTERTAINMENT" tvg-logo="https://www.wesncc.com/static/media/wesn_logo.6a0d578ac2656880f39d.png",WESN
+#EXTINF:-1 channel-id="WESN HDTV - WESNDT" tvg-id="WESN HDTV - WESNDT" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/bbest1716/67uyuyuyuyuyuyuyuy/refs/heads/main/Imge%20logo/wesn_logo.6a0d578ac2656880f39d.png",WESN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WESN.smil/playlist.m3u8
 
 
