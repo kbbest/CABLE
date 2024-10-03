@@ -92,7 +92,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEETV.smil/playlist.m3u8
 
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://seeklogo.com/images/P/pro-sports-logo-A67F5EE420-seeklogo.com.gif" group-title="SPORTS",PRO SPORTS
-http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Rush SD (Caribbean) - RUSHSD" tvg-id="Rush SD (Caribbean) - RUSHSD" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rush.png",RUSH
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:RUSH.smil/playlist.m3u8
@@ -103,7 +103,7 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609514
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="SportsMax 2 - SPTMAX2" tvg-id="SportsMax 2 - SPTMAX2" tvg-name="" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png" group-title="SPORTS",SPORT MAX 2
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609611
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX_2.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="ESPN (Caribbean) - ESPNC" tvg-id="ESPN (Caribbean) - ESPNC" group-title="SPORTS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png",ESPN HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15976
@@ -352,7 +352,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AXN.smil/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/awe_aws_ms/AWE.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 channel-id="Black Entertainment Television (Caribbean) - BET" tvg-id="Black Entertainment Television (Caribbean) - BET" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",Bet
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609445
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BET.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="BET Her Caribbean - BHER" tvg-id="BET Her Caribbean - BHER" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609449
