@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/caribbean.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/generate/5HyabuxTBx.xml"
 
-#EXTINF:-1 channel-id="CNC TV3 - CNC3" tvg-id="CNC TV3 - CNC3" group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
+#EXTINF:-1 channel-id="CNC TV3 - CNC3.tt" tvg-id="CNC TV3 - CNC3.tt" group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="TTT Limited (Caribbean New Media Group) - TTTLIM" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="TTT Limited (Caribbean New Media Group) - TTTLIM.tt" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TTT.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Caribbean Communications Network TV6 - CCNTV6" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Caribbean Communications Network TV6 - CCNTV6.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV6.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Synergy TV - SYNERGY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",Synergy
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Synergy TV - SYNERGY.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",Synergy
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Tempo - TEMPO" tvg-id="Tempo - TEMPO" tvg-name="TEMPO" tvg-logo="https://www.temponetworks.com/wp-content/uploads/2018/05/TEMPO-Logo-RGB-copy-300x300.png" group-title="ENTERTAINMENT",TEMPO
+#EXTINF:-1 channel-id="Tempo - TEMPO" tvg-id="Tempo - TEMPO.tt" tvg-name="TEMPO" tvg-logo="https://www.temponetworks.com/wp-content/uploads/2018/05/TEMPO-Logo-RGB-copy-300x300.png" group-title="ENTERTAINMENT",TEMPO
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609623
 
 
@@ -21,42 +21,42 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609623
 
 
 
-#EXTINF:-1 channel-id="Music and Entertainment Television - TTEN" tvg-id="Music and Entertainment Television - TTEN" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN
+#EXTINF:-1 channel-id="Music and Entertainment Television - TTEN.tt" tvg-id="Music and Entertainment Television - TTEN.tt" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TTEN.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Gayelle the Channel HDTV - GAYELLE" tvg-id="Gayelle the Channel HDTV - GAYELLE" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Gayelle
+#EXTINF:-1 channel-id="Gayelle the Channel HDTV - GAYELLE.tt" tvg-id="Gayelle the Channel HDTV - GAYELLE.tt" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Gayelle
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="Government Information Services Ltd. - GISL" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
+#EXTINF:-1 channel-id="" tvg-id="Government Information Services Ltd. - GISL.tt" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TIC4.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Parliament of the Republic of Trinidad and Tobago - PARLTT" tvg-id="Parliament of the Republic of Trinidad and Tobago - PARLTT" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
+#EXTINF:-1 channel-id="Parliament of the Republic of Trinidad and Tobago - PARLTT.tt" tvg-id="Parliament of the Republic of Trinidad and Tobago - PARLTT.tt" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARLIAMENT.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="BIZZ TV (Trinidad and Tobago) - MCTVTT" tvg-id="BIZZ TV (Trinidad and Tobago) - MCTVTT" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/UbCiAvI.jpeg",BIZZ TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="WESN HDTV - WESNDT" tvg-id="WESN HDTV - WESNDT" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/bbest1716/67uyuyuyuyuyuyuyuy/refs/heads/main/Imge%20logo/wesn_logo.6a0d578ac2656880f39d.png",WESN
+#EXTINF:-1 channel-id="WESN HDTV - WESNDT.tt" tvg-id="WESN HDTV - WESNDT.tt" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/bbest1716/67uyuyuyuyuyuyuyuy/refs/heads/main/Imge%20logo/wesn_logo.6a0d578ac2656880f39d.png",WESN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WESN.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="ieTV Channel 1 - ieTV" tvg-id="ieTV Channel 1 - ieTV" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Ietv.jpg",IETV
+#EXTINF:-1 channel-id="ieTV Channel 1 - ieTV.tt" tvg-id="ieTV Channel 1 - ieTV.tt" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Ietv.jpg",IETV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:IETV.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Islamic Broadcasting Network - IBN" tvg-id="Islamic Broadcasting Network - IBN" group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",IBN
+#EXTINF:-1 channel-id="Islamic Broadcasting Network - IBN.tt" tvg-id="Islamic Broadcasting Network - IBN.tt" group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",IBN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:IBN.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="JAAGRITI TV - JAAGR" tvg-id="JAAGRITI TV - JAAGR" group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
+#EXTINF:-1 channel-id="JAAGRITI TV - JAAGR.tt" tvg-id="JAAGRITI TV - JAAGR.tt" group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:JAAGRITI.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Living Faith Network" tvg-id="Living Faith Network" group-title="RELIGION" tvg-logo="https://www.lyngsat.com/logo/tv/ll/living-faith-tv-us.png",LIVING FAITH
+#EXTINF:-1 channel-id="Living Faith Network.tt" tvg-id="Living Faith Network.tt" group-title="RELIGION" tvg-logo="https://www.lyngsat.com/logo/tv/ll/living-faith-tv-us.png",LIVING FAITH
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:LIVING_FAITH.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Sankhya TV HDTV - SANKHYATV" tvg-id="Sankhya TV HDTV - SANKHYATV" group-title="Bollywood" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
+#EXTINF:-1 channel-id="Sankhya TV HDTV - SANKHYATV.tt" tvg-id="Sankhya TV HDTV - SANKHYATV.tt" group-title="Bollywood" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SANKHYA.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Trinity TV - Columbus - TTV" tvg-id="Trinity TV - Columbus - TTV" group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
+#EXTINF:-1 channel-id="Trinity TV - Columbus - TTV.tt" tvg-id="Trinity TV - Columbus - TTV.tt" group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TRINITY_TV.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Trinity Broadcasting Network - TBN" tvg-id="Trinity Broadcasting Network - TBN" group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/AFRICA/TBN.png",TBN Trinity Broadcasting Network East
